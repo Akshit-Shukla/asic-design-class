@@ -8,3 +8,4 @@ Task 2: To compile the same c code using RiscV gcc:
     riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c
 
   After that "riscv-unknown-elf-objdump -d sum1ton.o | less" command was used to dump the assembly code in the terminal. 
+![Asic_Design_Task2](https://github.com/user-attachments/assets/1ec2ac62-58e8-4abd-bfac-4732a1a72a64)
