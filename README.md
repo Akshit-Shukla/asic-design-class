@@ -11,6 +11,6 @@ Task 2: To compile the same c code using RiscV gcc:
 
   After that the following command is used to dum the assembly code in terminal:
   
-  `riscv-unknown-elf-objdump -d sum1ton.o | less` 
+  `riscv64-unknown-elf-objdump -d sum1ton.o | less` 
   
 ![Asic_Design_Task2](https://github.com/user-attachments/assets/1ec2ac62-58e8-4abd-bfac-4732a1a72a64)
