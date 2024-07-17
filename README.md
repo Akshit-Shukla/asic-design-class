@@ -4,6 +4,9 @@ Task 1: To compile c code using gcc:
   
     `gcc -o sum1ton sum1ton.c`
 
+    ![Screenshot 2024-07-17 160519](https://github.com/user-attachments/assets/f78e0c67-dc60-4f7a-a147-65d616c36c90)
+
+
 Task 2: To compile the same c code using RiscV gcc:
   The same c program was then compiled using RiscV gcc with the following command:
   
