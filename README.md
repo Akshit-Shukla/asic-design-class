@@ -6,6 +6,13 @@ Task 1: To compile c code using gcc:
 
 ![Screenshot 2024-07-17 160519](https://github.com/user-attachments/assets/f78e0c67-dc60-4f7a-a147-65d616c36c90)
 
+After that `./sum1ton.o ` command was used to print the output.
+
+
+
+![Screenshot 2024-07-16 171156](https://github.com/user-attachments/assets/69a193ba-bee9-4067-8827-334c3cd42431)
+
+
 
 Task 2: To compile the same c code using RiscV gcc:
   The same c program was then compiled using RiscV gcc with the following command:
