@@ -67,7 +67,7 @@ The address of the first instruction of main can be looked in objdump file as sh
 
 Step 5: After that we use the `reg 0 'name of the register' ` command to check the current value stored in that register and compare it to the theoritcally calculated value.
 
-For example : In the below snapshot the value of register A0 after the modification in the program should be =       which is same as the value calculated by the instruction.
+For example : In the below snapshot the value of register A0 after the modification in the program should be = 0x21100   which is same as the value calculated by the instruction.
 
 ![Screenshot 2024-07-21 152830](https://github.com/user-attachments/assets/7eb3897e-b43d-496c-80c1-05d10424456d)
 
