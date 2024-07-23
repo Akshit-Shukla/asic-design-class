@@ -71,13 +71,35 @@ For example : In the below snapshot the value of register A0 after the modificat
 
 ![Screenshot 2024-07-21 152830](https://github.com/user-attachments/assets/7eb3897e-b43d-496c-80c1-05d10424456d)
 
+Task 5:
+To sort and organise a set of given instructions into their respective format type:
+
+| Assembly Instruction | Instruction format |
+|----------------------|----------------------------|
+| ADD r5, r6, r7       | R                          |
+| SUB r7, r5, r6       | R                          |
+| AND r6, r5, r7       | R                          |
+| OR r8, r6, r5        | R                          |
+| XOR r8, r5, r4       | R                          |
+| SLT r10, r2, r4      | R                          |
+| ADDI r12, r3, 5      | I                          |
+| SW r3, r1, 4         | S                          |
+| SRL r16, r11, r2     | R                          |
+| BNE r0, r1, 20       | B                          |
+| BEQ r0, r0, 15       | B                          |
+| LW r13, r11, 2       | I                          |
+| SLL r15, r11, r2     | R                          |
+
+The corresponding RISCV ISA fo the above instructions is shown in the table below:
+
+
 | Assembly Instruction | Hexadecimal Representation |
 |----------------------|----------------------------|
-| ADD r4, r5, r6       | 0x00B282B3                 |
-| SUB r6, r4, r5       | 0x405302B3                 |
-| AND r5, r4, r6       | 0x00C2B333                 |
-| OR r8, r5, r6        | 0x00D283B3                 |
-| XOR r8, r4, r4       | 0x00422333                 |
+| ADD r5, r6, r7       | 0x00D302B3                 |
+| SUB r7, r5, r6       | 0x40B383B3                 |
+| AND r6, r5, r7       | 0x00F2B333                 |
+| OR r8, r6, r5        | 0x00D322B3                 |
+| XOR r8, r5, r4       | 0x00C292B3                 |
 | SLT r10, r2, r4      | 0x004122B3                 |
 | ADDI r12, r3, 5      | 0x00518293                 |
 | SW r3, r1, 4         | 0x00312023                 |
@@ -86,6 +108,8 @@ For example : In the below snapshot the value of register A0 after the modificat
 | BEQ r0, r0, 15       | 0x000003E3                 |
 | LW r13, r11, 2       | 0x002585B3                 |
 | SLL r15, r11, r2     | 0x002585B3                 |
+
+
 
 
 
