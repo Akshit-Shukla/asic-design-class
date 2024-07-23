@@ -71,5 +71,22 @@ For example : In the below snapshot the value of register A0 after the modificat
 
 ![Screenshot 2024-07-21 152830](https://github.com/user-attachments/assets/7eb3897e-b43d-496c-80c1-05d10424456d)
 
+| Assembly Instruction | Hexadecimal Representation |
+|----------------------|----------------------------|
+| ADD r4, r5, r6       | 0x00B282B3                 |
+| SUB r6, r4, r5       | 0x405302B3                 |
+| AND r5, r4, r6       | 0x00C2B333                 |
+| OR r8, r5, r6        | 0x00D283B3                 |
+| XOR r8, r4, r4       | 0x00422333                 |
+| SLT r10, r2, r4      | 0x004122B3                 |
+| ADDI r12, r3, 5      | 0x00518293                 |
+| SW r3, r1, 4         | 0x00312023                 |
+| SRL r16, r11, r2     | 0x002585B3                 |
+| BNE r0, r1, 20       | 0x00112163                 |
+| BEQ r0, r0, 15       | 0x000003E3                 |
+| LW r13, r11, 2       | 0x002585B3                 |
+| SLL r15, r11, r2     | 0x002585B3                 |
+
+
 
 
