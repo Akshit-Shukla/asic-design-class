@@ -1,5 +1,5 @@
-# asic-design-class
-Task 1: To compile c code using gcc:
+# *Asic-design-class*
+## *Task 1*: To compile c code using gcc:
   A c program to calculate the sum of n number was written and was compiled with gcc with the following command:
   
     `gcc -o sum1ton sum1ton.c`
@@ -14,7 +14,7 @@ After that `./sum1ton.o ` command was used to print the output.
 
 
 
-Task 2: To compile the same c code using RiscV gcc:
+## *Task 2*: To compile the same c code using RiscV gcc:
   The same c program was then compiled using RiscV gcc with the following command:
   
     `riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c`
@@ -28,7 +28,7 @@ Task 2: To compile the same c code using RiscV gcc:
 ![Asic_Design_Task2](https://github.com/user-attachments/assets/1ec2ac62-58e8-4abd-bfac-4732a1a72a64)
 
 
-Task 3: To run the RISCV executable created above using the riscV compiler.
+## *Task 3*: To run the RISCV executable created above using the riscV compiler.
 
 The same c program that was created above and compiled usingt the RISCV complier was run using the following command :
 
@@ -40,21 +40,21 @@ The output is shown below:
 ![Screenshot 2024-07-21 153539](https://github.com/user-attachments/assets/5d17e020-073f-41a9-a9d4-acc5d0fbc9bf)
 
 
-Task 4: To debug each line of the main and check its validity by manually comparing the output of that instruction and the value stored in the register used to store the value of that particular instruction.
+## *Task 4*: To debug each line of the main and check its validity by manually comparing the output of that instruction and the value stored in the register used to store the value of that particular instruction.
 
 The debugging includes these steps:
 
-Step 1: To run the riscV executable file the following command was used:
+### Step 1: To run the riscV executable file the following command was used:
 
 `spike pk sum1ton.o`
 
-Step 2: To verify whether gcc output and riscV output are same.
+### Step 2: To verify whether gcc output and riscV output are same.
 
-Step 3: To the debugging mode of that file using the following command:
+### Step 3: To the debugging mode of that file using the following command:
 
 `spike -d pk sum1ton.o`
 
-Step 4: Then we get the program counter to point to the first line of the main function using this command :
+### Step 4: Then we get the program counter to point to the first line of the main function using this command :
 
 `until pc 0 "address of first instruction" `
 
@@ -71,7 +71,7 @@ For example : In the below snapshot the value of register A0 after the modificat
 
 ![Screenshot 2024-07-21 152830](https://github.com/user-attachments/assets/7eb3897e-b43d-496c-80c1-05d10424456d)
 
-Task 5:
+## *Task 5:*
 To sort and organise a set of given instructions into their respective format type:
 
 | Assembly Instruction | Instruction format |
@@ -109,7 +109,23 @@ The corresponding RISCV ISA fo the above instructions is shown in the table belo
 | LW r13, r11, 2       | 0x002585B3                 |
 | SLL r15, r11, r2     | 0x002585B3                 |
 
+## *Task 6:* The task is to run some assembly instructions using a given verilog code for a riscV processor.
 
+There is some variations in the ISA followed by RISCV and the hardcoded ISA for the below given instrucions. The differences are shown in the table below:
+
+|Operation	     |Standard RISCV ISA	|Hardcoded ISA |
+|ADD R6, R2, R1	 |32'h00110333	      |32'h02208300  |
+|SUB R7, R1, R2	 |32'h402083b3	      |32'h02209380  |
+|AND R8, R1, R3	 |32'h0030f433	      |32'h0230a400  |
+|OR R9, R2, R5	 |32'h005164b3	      |32'h02513480  |
+|XOR R10, R1, R4 |32'h0040c533	      |32'h0240c500  |
+|SLT R1, R2, R4	 |32'h0045a0b3	      |32'h02415580  |
+|ADDI R12, R4, 5 |32'h004120b3	      |32'h00520600  |
+|BEQ R0, R0, 15	 |32'h00000f63	      |32'h00f00002  |
+|SW R3, R1, 2	   |32'h0030a123	      |32'h00209181  |
+|LW R13, R1, 2	 |32'h0020a683	      |32'h00208681  |
+|SRL R16, R14, R2|32'h0030a123	      |32'h00271803  |
+|SLL R15, R1, R2 |32'h002097b3	      |32'h00208783  |
 
 
 
