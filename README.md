@@ -131,6 +131,8 @@ There is some variations in the ISA followed by RISCV and the hardcoded ISA for 
 The following commands were used to run the verilog code:
 
 `iverilog -o Test_code Test_code.v Test_code_tb.b`
+
+
 `./Test_code`
 
 The above commands run the verilog code in which the above mentioned instructions are hardcoded and the output vectors are dumped into a file with .vcd extension.
@@ -140,17 +142,29 @@ In order to plot the wave we use the gtkwave software with the following command
 
 The output of each instruction is shown in the images below:
 `ADD R6, R2, R1`
+
 `SUB R7, R1, R2	`
+
 `AND R8, R1, R3`
+
 `OR R9, R2, R5`
+
 `XOR R10, R1, R4`
+
 `SLT R1, R2, R4`
+
 `SLT R1, R2, R4`
+
 `ADDI R12, R4, 5`
+
 `BEQ R0, R0, 15`
+
 `SW R3, R1, 2`
+
 `LW R13, R1, 2`
+
 `SRL R16, R14, R2`
+
 `SLL R15, R1, R2`
 
 
