@@ -114,6 +114,7 @@ The corresponding RISCV ISA fo the above instructions is shown in the table belo
 There is some variations in the ISA followed by RISCV and the hardcoded ISA for the below given instrucions. The differences are shown in the table below:
 
 |Operation	     |Standard RISCV ISA	|Hardcoded ISA |
+|----------------------------------------------------|
 |ADD R6, R2, R1	 |32'h00110333	      |32'h02208300  |
 |SUB R7, R1, R2	 |32'h402083b3	      |32'h02209380  |
 |AND R8, R1, R3	 |32'h0030f433	      |32'h0230a400  |
