@@ -1,4 +1,4 @@
-t# *Asic-design-class*
+# *Asic-design-class*
 ## *Task 1*: To compile c code using gcc:
   A c program to calculate the sum of n number was written and was compiled with gcc with the following command:
   
@@ -142,7 +142,7 @@ In order to plot the wave we use the gtkwave software with the following command
 
 The output of each instruction is shown in the images below:
 
-#**Note : We can notice some discrepency the above two images as the verilog code availabe is not designed in agreement to the ISA used to by us in the first program.**
+# **Note : We can notice some discrepency the above two images as the verilog code availabe is not designed in agreement to the ISA used to by us in the first program.**
 
 `ADD R6, R2, R1`
 
