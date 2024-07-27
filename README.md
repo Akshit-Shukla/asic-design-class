@@ -1,4 +1,4 @@
-# *Asic-design-class*
+t# *Asic-design-class*
 ## *Task 1*: To compile c code using gcc:
   A c program to calculate the sum of n number was written and was compiled with gcc with the following command:
   
@@ -153,7 +153,7 @@ The waveform for the hardcoded command present in the code is given below:
 
 ![Screenshot 2024-07-24 134229](https://github.com/user-attachments/assets/0b4f832c-e13e-4b8c-8531-a7def4689610)
 
-*Note : We can notice some discrepency the above two images as the verilog code availabe is not designed in agreement to the ISA used to by us in the first program.*
+**Note : We can notice some discrepency the above two images as the verilog code availabe is not designed in agreement to the ISA used to by us in the first program.**
 
 
 `SUB R7, R1, R2	`
