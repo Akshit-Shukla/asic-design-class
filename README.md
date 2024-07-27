@@ -197,18 +197,34 @@ The wave form for the above command is shown below:
 
 ![Screenshot 2024-07-27 210612](https://github.com/user-attachments/assets/8c42e1a7-b6e1-44e9-a0ae-1e869a8ce1ba)
 
+The waveform for the harcoded instruction is given below:
+
+
+![Screenshot 2024-07-24 134742](https://github.com/user-attachments/assets/9844c7e7-48ac-4aa6-8fe4-3e0629e2befc)
+
+
 `SLT R1, R2, R4`
 
 The waveform for the above code is shown below:
 
 ![Screenshot 2024-07-27 210613](https://github.com/user-attachments/assets/3b7912b3-14af-48c1-81ca-83d70212b2e3)
 
+The waveform for the hardcoded instruction is given below:
+
+
+![Screenshot 2024-07-24 134756](https://github.com/user-attachments/assets/94bae452-5fea-4ee7-9f04-7d99e9b13ce0)
+
 
 
 
 `ADDI R12, R4, 5`
 The waveform for the above instruction is given below:
+
 ![Screenshot 2024-07-27 210833](https://github.com/user-attachments/assets/646d4b83-c4ef-4420-8f14-f2e352f6f2ff)
+
+The waveform for the hardcoded instruction is shown below:
+
+![Screenshot 2024-07-24 134835](https://github.com/user-attachments/assets/4f271e06-7fc9-45e5-9148-a7d45a050dcf)
 
 
 `BEQ R0, R0, 15`
@@ -218,6 +234,11 @@ The waveform for the above code is given below:
 
 ![Screenshot 2024-07-27 210847](https://github.com/user-attachments/assets/df3689dd-55d3-4695-a8e1-7850bf42950d)
 
+The waveform for the hardcoded instruction is shown below:
+
+![Screenshot 2024-07-24 135001](https://github.com/user-attachments/assets/07bc87a7-400e-46c3-bb35-adc69dc8c95c)
+
+
 
 
 `SW R3, R1, 2`
@@ -225,6 +246,11 @@ The waveform for the above code is given below:
 The waveform for the above code is given below:
 
 ![Screenshot 2024-07-27 210916](https://github.com/user-attachments/assets/30353054-7224-4891-82be-1dd08e1a2be6)
+
+The waveform for the hardcoded instruction is shown below:
+
+![Screenshot 2024-07-24 134916](https://github.com/user-attachments/assets/03488efd-20e2-4923-aff9-54002b53f7ea)
+
 
 
 
@@ -238,6 +264,8 @@ The waveform for the above code is given below:
 
 The waveform for the hardcoded instruction is given below:
 
+![Screenshot 2024-07-24 134938](https://github.com/user-attachments/assets/761978e0-af5e-4984-840b-368d3a13d7f0)
+
 
 
 `SRL R16, R14, R2`
@@ -247,7 +275,8 @@ The waveform for the above code is given below:
 ![Screenshot 2024-07-27 211010](https://github.com/user-attachments/assets/015f16dc-6ae9-4f19-8c18-7f9b3f4fd522)
 
 
-The waveform for the hardcoded instruction is given below:
+
+
 
 
 `SLL R15, R1, R2`
@@ -257,7 +286,6 @@ The waveform for the above code is given below:
 
 ![Screenshot 2024-07-27 211031](https://github.com/user-attachments/assets/0e9ebf14-04d7-4b42-8301-7d523e8e23dd)
 
-The waveform for the hardcoded instruction is given below:
 
 
 
