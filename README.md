@@ -142,6 +142,8 @@ In order to plot the wave we use the gtkwave software with the following command
 
 The output of each instruction is shown in the images below:
 
+#**Note : We can notice some discrepency the above two images as the verilog code availabe is not designed in agreement to the ISA used to by us in the first program.**
+
 `ADD R6, R2, R1`
 
 The waveform for the above command using the provided verilog code is given below:
@@ -153,7 +155,6 @@ The waveform for the hardcoded command present in the code is given below:
 
 ![Screenshot 2024-07-24 134229](https://github.com/user-attachments/assets/0b4f832c-e13e-4b8c-8531-a7def4689610)
 
-**Note : We can notice some discrepency the above two images as the verilog code availabe is not designed in agreement to the ISA used to by us in the first program.**
 
 
 `SUB R7, R1, R2	`
