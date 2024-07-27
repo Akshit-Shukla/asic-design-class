@@ -1,4 +1,4 @@
-# *Asic-design-class*
+![Screenshot 2024-07-24 134728](https://github.com/user-attachments/assets/8ac06bcb-e90a-436f-8f47-c900850fe776)![Screenshot 2024-07-27 210534](https://github.com/user-attachments/assets/6b4b1198-c88b-4bd7-8a86-98fae6b145cc)# *Asic-design-class*
 ## *Task 1*: To compile c code using gcc:
   A c program to calculate the sum of n number was written and was compiled with gcc with the following command:
   
@@ -141,32 +141,103 @@ In order to plot the wave we use the gtkwave software with the following command
 `iiitb_rv32.vcd`
 
 The output of each instruction is shown in the images below:
+
 `ADD R6, R2, R1`
+
+The waveform for the above command using the provided verilog code is given below:
+
+![Screenshot 2024-07-27 190646](https://github.com/user-attachments/assets/3773a0cd-e287-448f-ba23-32e44fb8ad1b)
+
+The waveform for the hardcoded command present in the code is given below:
+
+
+![Screenshot 2024-07-24 134229](https://github.com/user-attachments/assets/0b4f832c-e13e-4b8c-8531-a7def4689610)
+
+*Note : We can notice some discrepency the above two images as the verilog code availabe is not designed in agreement to the ISA used to by us in the first program.*
+
 
 `SUB R7, R1, R2	`
 
+The waveform for the above command using the provided verilog code is given below:
+
+![Screenshot 2024-07-27 210429](https://github.com/user-attachments/assets/6201f07c-91e7-4b97-9960-78bb5fa7a0e3)
+
+
+
+The waveform for the hardcoded command present in the code is given below:
+
+
+![Screenshot 2024-07-24 134655](https://github.com/user-attachments/assets/cf028489-8cb2-463c-b206-3a5498551384)
+
+
 `AND R8, R1, R3`
 
+The waveformk for the above command using the provided verilog code is given below:
+
+![Screenshot 2024-07-27 210534](https://github.com/user-attachments/assets/ae6bf6cd-bf2f-48f7-a2f6-6ba43a85c4e2)
+
+The waveform for the hardcoded command is given below:
+
+![Screenshot 2024-07-24 134711](https://github.com/user-attachments/assets/b73d7c4b-994c-4bca-88af-d9641f4e3ff8)
+
 `OR R9, R2, R5`
+The waveform for the above command using the provided verilog code is given below:
+
+
+![Screenshot 2024-07-27 210534](https://github.com/user-attachments/assets/b0e8e892-e2da-4087-8994-ae67e21256fa)
+
+The waveform for the hardcoded command is given below:
+
+![Screenshot 2024-07-24 134728](https://github.com/user-attachments/assets/437b2dd2-c29b-4fcb-b9e0-d501fc005695)
+
 
 `XOR R10, R1, R4`
 
-`SLT R1, R2, R4`
+The wave form for the above command is shown below:
+
+![Screenshot 2024-07-27 210612](https://github.com/user-attachments/assets/8c42e1a7-b6e1-44e9-a0ae-1e869a8ce1ba)
 
 `SLT R1, R2, R4`
+
+The waveform for the above code is shown below:
+
+![Screenshot 2024-07-27 210613](https://github.com/user-attachments/assets/3b7912b3-14af-48c1-81ca-83d70212b2e3)
+
+
+`SLT R1, R2, R4`
+The waveform for the above code is given below:
+
 
 `ADDI R12, R4, 5`
+The waveform for the above instruction is given below:
+
 
 `BEQ R0, R0, 15`
 
+The waveform for the above code is given below:
+
+
 `SW R3, R1, 2`
+
+The waveform for the above code is given below:
+
+
 
 `LW R13, R1, 2`
 
+The wavefor for the above code is given below:
+
+
 `SRL R16, R14, R2`
 
+The waveform for the above code is given below:
+
+The waveform for the hardcoded instruction is given below:
 `SLL R15, R1, R2`
 
+The waveform for the above code is given below:
+
+The waveform for the hardcoded instruction is given below:
 
 
 
