@@ -1,4 +1,4 @@
-![Screenshot 2024-07-24 134728](https://github.com/user-attachments/assets/8ac06bcb-e90a-436f-8f47-c900850fe776)![Screenshot 2024-07-27 210534](https://github.com/user-attachments/assets/6b4b1198-c88b-4bd7-8a86-98fae6b145cc)# *Asic-design-class*
+# *Asic-design-class*
 ## *Task 1*: To compile c code using gcc:
   A c program to calculate the sum of n number was written and was compiled with gcc with the following command:
   
@@ -204,12 +204,11 @@ The waveform for the above code is shown below:
 ![Screenshot 2024-07-27 210613](https://github.com/user-attachments/assets/3b7912b3-14af-48c1-81ca-83d70212b2e3)
 
 
-`SLT R1, R2, R4`
-The waveform for the above code is given below:
 
 
 `ADDI R12, R4, 5`
 The waveform for the above instruction is given below:
+![Screenshot 2024-07-27 210833](https://github.com/user-attachments/assets/646d4b83-c4ef-4420-8f14-f2e352f6f2ff)
 
 
 `BEQ R0, R0, 15`
@@ -217,25 +216,46 @@ The waveform for the above instruction is given below:
 The waveform for the above code is given below:
 
 
+![Screenshot 2024-07-27 210847](https://github.com/user-attachments/assets/df3689dd-55d3-4695-a8e1-7850bf42950d)
+
+
+
 `SW R3, R1, 2`
 
 The waveform for the above code is given below:
+
+![Screenshot 2024-07-27 210916](https://github.com/user-attachments/assets/30353054-7224-4891-82be-1dd08e1a2be6)
 
 
 
 `LW R13, R1, 2`
 
-The wavefor for the above code is given below:
+
+The waveform for the above code is given below:
+
+![Screenshot 2024-07-27 210942](https://github.com/user-attachments/assets/805253cd-aa5d-44f9-81b0-f9067f9af6db)
+
+
+The waveform for the hardcoded instruction is given below:
+
 
 
 `SRL R16, R14, R2`
 
 The waveform for the above code is given below:
 
+![Screenshot 2024-07-27 211010](https://github.com/user-attachments/assets/015f16dc-6ae9-4f19-8c18-7f9b3f4fd522)
+
+
 The waveform for the hardcoded instruction is given below:
+
+
 `SLL R15, R1, R2`
 
 The waveform for the above code is given below:
+
+
+![Screenshot 2024-07-27 211031](https://github.com/user-attachments/assets/0e9ebf14-04d7-4b42-8301-7d523e8e23dd)
 
 The waveform for the hardcoded instruction is given below:
 
