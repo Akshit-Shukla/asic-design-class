@@ -147,8 +147,8 @@ The output of each instruction is shown in the images below:
 ```ADD r5, r6, r7```
 
 The waveform for the above command using the provided verilog code is given below:
+![Screenshot 2024-07-28 184830](https://github.com/user-attachments/assets/a1281f18-4ded-402e-9558-632fb2b14d12)
 
-![Screenshot 2024-07-27 190646](https://github.com/user-attachments/assets/3773a0cd-e287-448f-ba23-32e44fb8ad1b)
 
 The waveform for the hardcoded command present in the code is given below:
 
@@ -161,7 +161,8 @@ The waveform for the hardcoded command present in the code is given below:
 
 The waveform for the above command using the provided verilog code is given below:
 
-![Screenshot 2024-07-27 210429](https://github.com/user-attachments/assets/6201f07c-91e7-4b97-9960-78bb5fa7a0e3)
+![Screenshot 2024-07-28 184853](https://github.com/user-attachments/assets/f2e4b21b-2812-46ec-8de9-6c83816dd82a)
+
 
 
 
@@ -175,7 +176,8 @@ The waveform for the hardcoded command present in the code is given below:
 
 The waveformk for the above command using the provided verilog code is given below:
 
-![Screenshot 2024-07-27 210534](https://github.com/user-attachments/assets/ae6bf6cd-bf2f-48f7-a2f6-6ba43a85c4e2)
+![Screenshot 2024-07-28 184922](https://github.com/user-attachments/assets/6e581217-412d-48fc-8894-4aa621d07733)
+
 
 The waveform for the hardcoded command is given below:
 
