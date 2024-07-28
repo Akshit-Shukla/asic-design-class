@@ -144,7 +144,7 @@ The output of each instruction is shown in the images below:
 
 # **Note : We can notice some discrepency the above two images as the verilog code availabe is not designed in agreement to the ISA used to by us in the first program.**
 
-`ADD R6, R2, R1`
+```ADD r5, r6, r7```
 
 The waveform for the above command using the provided verilog code is given below:
 
@@ -157,7 +157,7 @@ The waveform for the hardcoded command present in the code is given below:
 
 
 
-`SUB R7, R1, R2	`
+```SUB r7, r5, r6	```
 
 The waveform for the above command using the provided verilog code is given below:
 
@@ -171,7 +171,7 @@ The waveform for the hardcoded command present in the code is given below:
 ![Screenshot 2024-07-24 134655](https://github.com/user-attachments/assets/cf028489-8cb2-463c-b206-3a5498551384)
 
 
-`AND R8, R1, R3`
+```AND r6, r5, r7```
 
 The waveformk for the above command using the provided verilog code is given below:
 
@@ -181,7 +181,7 @@ The waveform for the hardcoded command is given below:
 
 ![Screenshot 2024-07-24 134711](https://github.com/user-attachments/assets/b73d7c4b-994c-4bca-88af-d9641f4e3ff8)
 
-`OR R9, R2, R5`
+```OR r8, r6, r5```
 The waveform for the above command using the provided verilog code is given below:
 
 
@@ -192,7 +192,7 @@ The waveform for the hardcoded command is given below:
 ![Screenshot 2024-07-24 134728](https://github.com/user-attachments/assets/437b2dd2-c29b-4fcb-b9e0-d501fc005695)
 
 
-`XOR R10, R1, R4`
+```XOR r8, r5, r4```
 
 The wave form for the above command is shown below:
 
@@ -204,7 +204,7 @@ The waveform for the harcoded instruction is given below:
 ![Screenshot 2024-07-24 134742](https://github.com/user-attachments/assets/9844c7e7-48ac-4aa6-8fe4-3e0629e2befc)
 
 
-`SLT R1, R2, R4`
+```SLT r10, r2, r4```
 
 The waveform for the above code is shown below:
 
@@ -218,7 +218,7 @@ The waveform for the hardcoded instruction is given below:
 
 
 
-`ADDI R12, R4, 5`
+```ADDI r12, r3, 5```
 The waveform for the above instruction is given below:
 
 ![Screenshot 2024-07-27 210833](https://github.com/user-attachments/assets/646d4b83-c4ef-4420-8f14-f2e352f6f2ff)
@@ -228,7 +228,7 @@ The waveform for the hardcoded instruction is shown below:
 ![Screenshot 2024-07-24 134835](https://github.com/user-attachments/assets/4f271e06-7fc9-45e5-9148-a7d45a050dcf)
 
 
-`BEQ R0, R0, 15`
+```SW r3, r1, 4```
 
 The waveform for the above code is given below:
 
@@ -242,7 +242,7 @@ The waveform for the hardcoded instruction is shown below:
 
 
 
-`SW R3, R1, 2`
+```SRL r16, r11, r2```
 
 The waveform for the above code is given below:
 
@@ -255,7 +255,7 @@ The waveform for the hardcoded instruction is shown below:
 
 
 
-`LW R13, R1, 2`
+```BNE r0, r1, 20```
 
 
 The waveform for the above code is given below:
@@ -269,7 +269,7 @@ The waveform for the hardcoded instruction is given below:
 
 
 
-`SRL R16, R14, R2`
+```BEQ r0, r0, 15```
 
 The waveform for the above code is given below:
 
@@ -280,7 +280,7 @@ The waveform for the above code is given below:
 
 
 
-`SLL R15, R1, R2`
+```LW r13, r11, 2```
 
 The waveform for the above code is given below:
 
