@@ -137,6 +137,11 @@ The following commands were used to run the verilog code:
 
 The above commands run the verilog code in which the above mentioned instructions are hardcoded and the output vectors are dumped into a file with .vcd extension.
 
+The verilog code was edited to process the above commands as shown below:
+
+![image](https://github.com/user-attachments/assets/b1f47669-b677-42a9-b41d-5d0ff633914c)
+
+
 In order to plot the wave we use the gtkwave software with the following command:
 `iiitb_rv32.vcd`
 
@@ -286,8 +291,12 @@ The waveform for the above code is given below:
 
 The waveform for the above code is given below:
 
+![Screenshot 2024-07-28 190449](https://github.com/user-attachments/assets/fd9a0283-ef1e-4bd6-93bd-acbcbeb88e50)
 
-![Screenshot 2024-07-27 211031](https://github.com/user-attachments/assets/0e9ebf14-04d7-4b42-8301-7d523e8e23dd)
+```SLL r15, r11, r2 ```
+# Note: This command was not executed because the verilog code did not had enough memory spaces for this command and the compiler showed this output of ignoring the last memory register.
+
+![image](https://github.com/user-attachments/assets/1a3b0aeb-f598-4231-ace4-40cf6bcb9fc1)
 
 
 
