@@ -107,7 +107,7 @@ The corresponding RISCV ISA fo the above instructions is shown in the table belo
 | BNE r0, r1, 20       | 0x00112163                 |
 | BEQ r0, r0, 15       | 0x000003E3                 |
 | LW r13, r11, 2       | 0x002585B3                 |
-| SLL r15, r11, r2     | 0x002585B3                 |
+| SLL r15, r11, r2     | 0x000259B3                 |
 
 ## *Task 6:* The task is to run some assembly instructions using a given verilog code for a riscV processor.
 
