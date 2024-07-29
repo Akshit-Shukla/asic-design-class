@@ -28,7 +28,7 @@ After that `./sum1ton.o ` command was used to print the output.
 ![Asic_Design_Task2](https://github.com/user-attachments/assets/1ec2ac62-58e8-4abd-bfac-4732a1a72a64)
 
 
-## *Task 3*: To run the RISCV executable created above using the riscV compiler.
+## *Task 3*: To run the RISCV executable created above using the riscV compiler in O1 and Ofast modes.
 
 The same c program that was created above and compiled usingt the RISCV complier was run using the following command :
 
@@ -36,8 +36,8 @@ The same c program that was created above and compiled usingt the RISCV complier
 
 The output is shown below:
 
+![Screenshot 2024-07-29 205712](https://github.com/user-attachments/assets/33c4f8d1-a419-473d-b1d9-25a6e2dbb978)
 
-![Screenshot 2024-07-29 204146](https://github.com/user-attachments/assets/45049e12-4531-412d-93e4-a0e10936e18b)
 
 The same c program was then compiled using Ofast argument and the executable was run using spike command, as shown below:
 
