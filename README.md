@@ -39,6 +39,11 @@ The output is shown below:
 
 ![Screenshot 2024-07-29 204146](https://github.com/user-attachments/assets/45049e12-4531-412d-93e4-a0e10936e18b)
 
+The same c program was then compiled using Ofast argument and the executable was run using spike command, as shown below:
+
+![Screenshot 2024-07-29 205427](https://github.com/user-attachments/assets/c193a29e-845d-4270-b8ca-80fbd9060bec)
+
+
 
 ## *Task 4*: To debug each line of the main and check its validity by manually comparing the output of that instruction and the value stored in the register used to store the value of that particular instruction.
 
