@@ -10,7 +10,7 @@ After that `./sum1ton.o ` command was used to print the output.
 
 
 
-![Screenshot 2024-07-16 171156](https://github.com/user-attachments/assets/69a193ba-bee9-4067-8827-334c3cd42431)
+![Screenshot 2024-07-29 204414](https://github.com/user-attachments/assets/055ac52b-72ba-4a90-a241-1e2400c940c5)
 
 
 
