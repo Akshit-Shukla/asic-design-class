@@ -37,7 +37,7 @@ The same c program that was created above and compiled usingt the RISCV complier
 The output is shown below:
 
 
-![Screenshot 2024-07-21 153539](https://github.com/user-attachments/assets/5d17e020-073f-41a9-a9d4-acc5d0fbc9bf)
+![Screenshot 2024-07-29 204146](https://github.com/user-attachments/assets/45049e12-4531-412d-93e4-a0e10936e18b)
 
 
 ## *Task 4*: To debug each line of the main and check its validity by manually comparing the output of that instruction and the value stored in the register used to store the value of that particular instruction.
@@ -139,7 +139,8 @@ The above commands run the verilog code in which the above mentioned instruction
 
 The verilog code was edited to process the above commands as shown below:
 
-![image](https://github.com/user-attachments/assets/b1f47669-b677-42a9-b41d-5d0ff633914c)
+![Screenshot 2024-07-29 203739](https://github.com/user-attachments/assets/3d5100cb-ef54-43dd-94a0-2cb31629d040)
+
 
 
 In order to plot the wave we use the gtkwave software with the following command:
