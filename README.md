@@ -79,6 +79,12 @@ For example : In the below snapshot the value of register A0 after the modificat
 ## *Task 5:*
 To sort and organise a set of given instructions into their respective format type:
 
+The Risc V instrucition are classified into the following types depending upon their architectures:
+
+![Screenshot 2024-07-29 210135](https://github.com/user-attachments/assets/140a75b9-640b-4507-bfd2-62718c59fd3f)
+
+
+
 | Assembly Instruction | Instruction format |
 |----------------------|----------------------------|
 | ADD r5, r6, r7       | R                          |
