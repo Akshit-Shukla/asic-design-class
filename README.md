@@ -312,6 +312,34 @@ The waveform for the above code is given below:
 
 
 
+## *Task 7:* The task is to write an Application in C, compile it with gcc and Risc-v gcc
+
+**Application ** : To perform convolution operation on an Image matrix with a blurring Kernel ( Image processing Application).
+
+**Step 1** : The program to perform the applicaiton is shown below :
+
+
+![Screenshot 2024-08-13 193642](https://github.com/user-attachments/assets/5be84c74-2714-4217-9098-14f6b92a3381)
+
+**Step 2** : The program then compiled with the gcc is shown below:
+
+
+![Screenshot 2024-08-13 193930](https://github.com/user-attachments/assets/c7ac3ecd-7c53-424c-9674-97b868e0a7a6)
+
+
+**Step 3** : The program compiled with Risc-V gcc and run using "Spike command " is shown below:
+
+
+![Screenshot 2024-08-13 190811](https://github.com/user-attachments/assets/f8fdbf63-6f53-46bd-90fa-91122478e5cc)
+
+**Step 4 :** The Program was then run into the debugger mode as done previously is shown below:
+
+
+![Screenshot 2024-08-13 191158](https://github.com/user-attachments/assets/c656cc2b-a490-47e6-8c54-244d5c31cdd7)
+
+
+![Screenshot 2024-08-13 191653](https://github.com/user-attachments/assets/7b3f91d2-a7b0-428c-89d4-5b88c8011218)
+
 
 
 
