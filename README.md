@@ -314,7 +314,7 @@ The waveform for the above code is given below:
 
 ## *Task 7:* The task is to write an Application in C, compile it with gcc and Risc-v gcc
 
-**Application ** : To perform convolution operation on an Image matrix with a blurring Kernel ( Image processing Application).
+**Application** : To perform convolution operation on an Image matrix with a blurring Kernel ( Image processing Application).
 
 **Step 1** : The program to perform the applicaiton is shown below :
 
