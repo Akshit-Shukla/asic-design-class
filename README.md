@@ -19,7 +19,9 @@ After that `./sum1ton.o ` command was used to print the output.
 
 </details>
 
-
+<details>
+<summary> Assignment 2</summary>
+<br>
 ## *Task 2*: To compile the same c code using RiscV gcc:
   The same c program was then compiled using RiscV gcc with the following command:
   
@@ -33,7 +35,12 @@ After that `./sum1ton.o ` command was used to print the output.
   
 ![Asic_Design_Task2](https://github.com/user-attachments/assets/1ec2ac62-58e8-4abd-bfac-4732a1a72a64)
 
+</details>
 
+
+<details>
+<summary> Assignment 3</summary>
+<br>
 ## *Task 3*: To run the RISCV executable created above using the riscV compiler in O1 and Ofast modes.
 
 The same c program that was created above and compiled usingt the RISCV complier was run using the following command :
@@ -50,7 +57,11 @@ The same c program was then compiled using Ofast argument and the executable was
 ![Screenshot 2024-07-29 205427](https://github.com/user-attachments/assets/c193a29e-845d-4270-b8ca-80fbd9060bec)
 
 
+</details>
 
+<details>
+<summary> Assignment 4</summary>
+<br>
 ## *Task 4*: To debug each line of the main and check its validity by manually comparing the output of that instruction and the value stored in the register used to store the value of that particular instruction.
 
 The debugging includes these steps:
@@ -82,6 +93,11 @@ For example : In the below snapshot the value of register A0 after the modificat
 
 ![Screenshot 2024-07-21 152830](https://github.com/user-attachments/assets/7eb3897e-b43d-496c-80c1-05d10424456d)
 
+</details>
+
+<details>
+<summary> Assignment 1</summary>
+<br>
 ## *Task 5:*
 To sort and organise a set of given instructions into their respective format type:
 
@@ -126,6 +142,11 @@ The corresponding RISCV ISA fo the above instructions is shown in the table belo
 | LW r13, r11, 2       | 0x002585B3                 |
 | SLL r15, r11, r2     | 0x000259B3                 |
 
+</details>
+
+<details>
+<summary> Assignment 6</summary>
+<br>
 ## *Task 6:* The task is to run some assembly instructions using a given verilog code for a riscV processor.
 
 There is some variations in the ISA followed by RISCV and the hardcoded ISA for the below given instrucions. The differences are shown in the table below:
@@ -316,8 +337,11 @@ The waveform for the above code is given below:
 
 ![image](https://github.com/user-attachments/assets/1a3b0aeb-f598-4231-ace4-40cf6bcb9fc1)
 
+</details>
 
-
+<details>
+<summary> Assignment 7</summary>
+<br>
 ## *Task 7:* The task is to write an Application in C, compile it with gcc and Risc-v gcc
 
 **Application** : To perform convolution operation on an Image matrix with a blurring Kernel ( Image processing Application).
@@ -346,6 +370,13 @@ The waveform for the above code is given below:
 
 ![Screenshot 2024-08-13 191653](https://github.com/user-attachments/assets/7b3f91d2-a7b0-428c-89d4-5b88c8011218)
 
+</details>
 
+<details>
+<summary> Assignment 8</summary>
+<br>
+
+
+</details>
 
 
