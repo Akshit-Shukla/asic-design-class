@@ -407,6 +407,14 @@ The signals including the "named clock : $clk_aks " is shown below :
 
 The code segments are shown below:
 
+
+
+![Screenshot 2024-08-20 230711](https://github.com/user-attachments/assets/0f819144-e232-4f95-8d3a-de16aa2912bd)
+
+
+![Screenshot 2024-08-20 230631](https://github.com/user-attachments/assets/494623f1-9512-486d-9f37-7b29a48c91a9)
+
+
 ![Screenshot 2024-08-20 230750](https://github.com/user-attachments/assets/29115285-06ba-4dca-a6fc-66a59a785ed5)
 
 
