@@ -378,6 +378,48 @@ The waveform for the above code is given below:
 <summary> Assignment 8</summary>
 <br>
 
+**Task:** To design a Risc-V processor core using TL-Verilog on Makerchip
+
+The variour parts of the code are shown below :
+
+The generated Diagram is as shown below:
+
+
+![Screenshot 2024-08-20 230431](https://github.com/user-attachments/assets/4d1b5e45-f439-4426-a76e-256526de441d)
+
+The generated visual is as shown below:
+
+
+![Screenshot 2024-08-20 230535](https://github.com/user-attachments/assets/bfcf63ac-f3d9-4aaa-9227-91c015499921)
+
+Final Logs are shown below:
+
+![Screenshot 2024-08-20 230551](https://github.com/user-attachments/assets/61b36c6f-2b49-45af-a2a3-51836c878f9a)
+
+The test bench used for the verification of the result for the sample program is shown below:
+
+![Screenshot 2024-08-20 230822](https://github.com/user-attachments/assets/711810a7-817b-4bf0-8ac3-e40d9d4022cf)
+
+The signals including the "named clock : $clk_aks " is shown below :
+
+![Screenshot 2024-08-20 230511](https://github.com/user-attachments/assets/ac948303-54d5-4eae-a0d9-a331feec960d)
+
+
+The code segments are shown below:
+
+![Screenshot 2024-08-20 230750](https://github.com/user-attachments/assets/29115285-06ba-4dca-a6fc-66a59a785ed5)
+
+
+![Screenshot 2024-08-20 230734](https://github.com/user-attachments/assets/262b6c9e-629f-4725-a3d4-94b28bfad8e3)
+
+
+![Screenshot 2024-08-20 230807](https://github.com/user-attachments/assets/35bdfbad-3523-4042-931e-2b8adb3b2365)
+
+
+
+
+
+
 
 </details>
 
