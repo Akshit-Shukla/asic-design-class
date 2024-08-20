@@ -1,5 +1,10 @@
 # *Asic-design-class*
 ## *Task 1*: To compile c code using gcc:
+
+<details>
+<summary> Assignment 1</summary>
+<br>
+
   A c program to calculate the sum of n number was written and was compiled with gcc with the following command:
   
     `gcc -o sum1ton sum1ton.c`
@@ -12,6 +17,7 @@ After that `./sum1ton.o ` command was used to print the output.
 
 ![Screenshot 2024-07-29 204414](https://github.com/user-attachments/assets/055ac52b-72ba-4a90-a241-1e2400c940c5)
 
+</details>
 
 
 ## *Task 2*: To compile the same c code using RiscV gcc:
