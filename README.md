@@ -1,9 +1,11 @@
 # *Asic-design-class*
-## *Task 1*: To compile c code using gcc:
 
 <details>
 <summary> Assignment 1</summary>
 <br>
+
+## *Task 1*: To compile c code using gcc:
+
 
   A c program to calculate the sum of n number was written and was compiled with gcc with the following command:
   
@@ -96,7 +98,7 @@ For example : In the below snapshot the value of register A0 after the modificat
 </details>
 
 <details>
-<summary> Assignment 1</summary>
+<summary> Assignment 5</summary>
 <br>
 ## *Task 5:*
 To sort and organise a set of given instructions into their respective format type:
