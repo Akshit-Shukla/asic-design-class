@@ -432,7 +432,20 @@ The code segments are shown below:
 ![Screenshot 2024-08-20 231747](https://github.com/user-attachments/assets/244522f0-049a-41f9-81aa-b2b4569e1776)
 
 
+The waveforms for the `$dmem_wr_data` where the sum is being stored with each iteration is shown below:
 
+
+![Screenshot 2024-08-21 094020](https://github.com/user-attachments/assets/ed633bda-d64c-4ff4-910c-4aad5d84876d)
+
+![Screenshot 2024-08-21 094052](https://github.com/user-attachments/assets/ab7ef3e3-1fa2-404d-8068-d488ae6bbd28)
+
+![Screenshot 2024-08-21 094127](https://github.com/user-attachments/assets/e5c7d377-4c3a-4849-ac73-817e6829489e)
+
+![Screenshot 2024-08-21 094148](https://github.com/user-attachments/assets/7158d845-e1d8-43a2-bcbd-dee7dfa07614)
+
+![Screenshot 2024-08-21 094211](https://github.com/user-attachments/assets/d5fef148-df79-436d-bd78-2f090b1d7dc0)
+
+![Screenshot 2024-08-21 094247](https://github.com/user-attachments/assets/46da3a6a-d6e1-4b48-bb76-d3bfcb5026d3)
 
 
 
