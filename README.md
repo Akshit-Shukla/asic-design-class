@@ -445,6 +445,8 @@ The waveforms for the `$dmem_wr_data` where the sum is being stored with each it
 
 ![Screenshot 2024-08-21 094211](https://github.com/user-attachments/assets/d5fef148-df79-436d-bd78-2f090b1d7dc0)
 
+The final output after the loop ends and the testbecnch holds the data for 5 cycles is in the next image :
+
 ![Screenshot 2024-08-21 094247](https://github.com/user-attachments/assets/46da3a6a-d6e1-4b48-bb76-d3bfcb5026d3)
 
 
