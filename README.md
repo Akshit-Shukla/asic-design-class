@@ -378,7 +378,7 @@ The waveform for the above code is given below:
 <summary> Assignment 8</summary>
 <br>
 
-**Task:** To design a Risc-V processor core using TL-Verilog on Makerchip
+**Task:** To design a Baisc Risc-V processor core using TL-Verilog on Makerchip, MYTH Day 3_5 activities :
 
 The variour parts of the code are shown below :
 
@@ -389,8 +389,8 @@ The generated Diagram is as shown below:
 
 The generated visual is as shown below:
 
+![Screenshot 2024-08-21 100633](https://github.com/user-attachments/assets/7b75e567-6f16-4a13-bcf6-e36cb39af215)
 
-![Screenshot 2024-08-20 230535](https://github.com/user-attachments/assets/bfcf63ac-f3d9-4aaa-9227-91c015499921)
 
 Final Logs are shown below:
 
