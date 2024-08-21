@@ -432,22 +432,17 @@ The code segments are shown below:
 ![Screenshot 2024-08-20 231747](https://github.com/user-attachments/assets/244522f0-049a-41f9-81aa-b2b4569e1776)
 
 
-The waveforms for the `$dmem_wr_data` where the sum is being stored with each iteration is shown below:
+The waveforms for the `/xreg[14]` where the sum is being stored with each iteration is shown below:
 
+![Screenshot 2024-08-21 101737](https://github.com/user-attachments/assets/2d7c5e9c-79a1-439c-b9c4-4bfb732c634b)
 
-![Screenshot 2024-08-21 094020](https://github.com/user-attachments/assets/ed633bda-d64c-4ff4-910c-4aad5d84876d)
+![Screenshot 2024-08-21 101757](https://github.com/user-attachments/assets/2592d947-6fc0-4d37-a1ba-f186981e47f7)
 
-![Screenshot 2024-08-21 094052](https://github.com/user-attachments/assets/ab7ef3e3-1fa2-404d-8068-d488ae6bbd28)
-
-![Screenshot 2024-08-21 094127](https://github.com/user-attachments/assets/e5c7d377-4c3a-4849-ac73-817e6829489e)
-
-![Screenshot 2024-08-21 094148](https://github.com/user-attachments/assets/7158d845-e1d8-43a2-bcbd-dee7dfa07614)
-
-![Screenshot 2024-08-21 094211](https://github.com/user-attachments/assets/d5fef148-df79-436d-bd78-2f090b1d7dc0)
+![Screenshot 2024-08-21 101818](https://github.com/user-attachments/assets/96384342-2812-4721-9592-9fd45e8817e5)
 
 The final output after the loop ends and the testbecnch holds the data for 5 cycles is in the next image :
 
-![Screenshot 2024-08-21 094247](https://github.com/user-attachments/assets/46da3a6a-d6e1-4b48-bb76-d3bfcb5026d3)
+![Screenshot 2024-08-21 101837](https://github.com/user-attachments/assets/2c7673e2-661b-4352-a45c-e9e3ae0c8545)
 
 
 
