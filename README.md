@@ -461,4 +461,31 @@ The final output after the loop ends and the testbecnch holds the data for 5 cyc
 
 </details>
 
+<details>
+<summary> Assignment 9</summary>
+<br>
+
+**Task:** To convert the TL verilog code to Verilog code using Sandpiper, compile using Iverilog and plot the waveforms using GTKwave:
+
+The command used to convert the code is given below:
+
+![Screenshot 2024-08-26 222151](https://github.com/user-attachments/assets/869d5e45-730e-41f3-98fa-d484cb867316)
+
+The generated verilog code is as shown below:
+
+![Screenshot 2024-08-26 221716](https://github.com/user-attachments/assets/20e08120-25d7-4ecd-8b56-efbac5c6f0a2)
+
+The command to compile the verilog code is as shown below:
+
+![Screenshot 2024-08-26 222301](https://github.com/user-attachments/assets/05009fba-1825-47dd-a897-1ff33180a2ae)
+
+The output waveform is as shown below including clk named CPU_clk_aks_a0 , reset and data :
+
+![Screenshot_(125) 1](https://github.com/user-attachments/assets/321cf462-d361-4efd-b532-e54eba030ca5)
+
+</details>
+
+
+
+
 
