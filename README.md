@@ -481,7 +481,11 @@ The command to compile the verilog code is as shown below:
 
 The output waveform is as shown below including clk named CPU_clk_aks_a0 , reset and data :
 
-![Screenshot_(125) 1](https://github.com/user-attachments/assets/321cf462-d361-4efd-b532-e54eba030ca5)
+
+![Screenshot_(134) 1](https://github.com/user-attachments/assets/4c3379c8-2273-42b6-a6e4-9170c2395e4c)
+
+![Screenshot_(135) 1](https://github.com/user-attachments/assets/ba4bbf35-43e7-446e-8e2b-f1133c225ee4)
+
 
 </details>
 
