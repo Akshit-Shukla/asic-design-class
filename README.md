@@ -489,6 +489,25 @@ The output waveform is as shown below including clk named CPU_clk_aks_a0 , reset
 
 </details>
 
+<details>
+  <summary> Assignment 10 </summary>
+  <br>
+  **Task :** To generate waveform for DAC and PLL peripheral for Risc-V processor.
+
+  The following commands were used to run out Risc-V core inside the VSDbabySoc and observe the ports of peripherals:
+  ![Screenshot from 2024-08-31 17-37-52](https://github.com/user-attachments/assets/366b641e-4f09-43a0-a6ab-562a09fb16ba)
+
+
+
+
+  Below is the output for the waveforms:
+
+  Here, Vco_in is the input clk for the PLL and CLK is the clk output from the PLL. CLk_aks is the clock used inside the Risc-V core. RV_TO_DAC is the output wire connected to the Xreg[14] register of the register file, and OUT is the analog signal coming out of the DAC unit. 
+
+  ![Screenshot from 2024-08-31 17-59-49](https://github.com/user-attachments/assets/179be68e-fd21-4c2c-9d21-b9372b79fbfe)
+
+</details>
+
 
 
 
