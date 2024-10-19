@@ -511,8 +511,9 @@ The output waveform is as shown below including clk named CPU_clk_aks_a0 , reset
 <details>
   <summary> Assignment 11 </summary>
   <br> 
-  ** Day 1 **
+   Day 1
     Below are the snapshots of the activities donw in the Day 1 of the task:
+  
     ![Screenshot from 2024-10-19 11-05-14](https://github.com/user-attachments/assets/c209fd91-be37-46c8-be35-5bdee50476ae)
 
 
