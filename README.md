@@ -513,43 +513,8 @@ The output waveform is as shown below including clk named CPU_clk_aks_a0 , reset
   <br> 
   ** Day 1 **
     Below are the snapshots of the activities donw in the Day 1 of the task:
+    ![Screenshot from 2024-10-19 11-05-14](https://github.com/user-attachments/assets/c209fd91-be37-46c8-be35-5bdee50476ae)
 
-    \![Screenshot from 2024-10-19 11-05-14](https://github.com/user-attachments/assets/47d88286-0df5-4822-a56f-c42da7349b26)
-
-    ![Screenshot from 2024-10-19 11-10-10](https://github.com/user-attachments/assets/3f569161-81e0-4531-9f01-0ef54203d52d)
-
-    ![Screenshot from 2024-10-19 11-15-09](https://github.com/user-attachments/assets/0a2067be-c330-442a-8e9b-fbd1283b16d5)
-
-    ![Screenshot from 2024-10-19 11-44-59](https://github.com/user-attachments/assets/e0e6de47-bd57-46eb-ac70-99aae7bfb01f)
-
-    ![Screenshot from 2024-10-19 11-45-15](https://github.com/user-attachments/assets/1deed6ff-28a6-42d4-b28b-bcc97b035249)
-
-    ![Screenshot from 2024-10-19 11-45-35](https://github.com/user-attachments/assets/82c84725-175f-4520-ad43-9abb91220fa9)
-
-    ![Screenshot from 2024-10-19 13-39-32](https://github.com/user-attachments/assets/ed055557-3020-495c-8b45-8c1efab3b17c)
-
-    ![Screenshot from 2024-10-19 23-25-58](https://github.com/user-attachments/assets/b356de12-c99e-447f-b6ed-6fd9c545c27e)
-
-    ![Screenshot from 2024-10-19 23-27-28](https://github.com/user-attachments/assets/9ad9051f-83bd-4a3f-8f03-073dfa942fb7)
-
-    ![Screenshot from 2024-10-19 23-27-58](https://github.com/user-attachments/assets/b77a9427-3746-4b93-84b0-064c793afcc7)
-
-    ![Screenshot from 2024-10-19 23-28-35](https://github.com/user-attachments/assets/2fc32bc2-e5d7-4a30-bea1-bb5df92485bf)
-
-    
-    ![Screenshot from 2024-10-19 23-28-35](https://github.com/user-attachments/assets/d96e97a0-61db-41a7-ae6f-e0ed6312d480)
-
-
-    
-    ![Screenshot from 2024-10-19 23-35-20](https://github.com/user-attachments/assets/da609902-c282-406a-b207-15d4747f6dfa)
-
-    ![Screenshot from 2024-10-19 23-35-32](https://github.com/user-attachments/assets/1610af7a-0dc9-42ac-b91d-f1c77348bd74)
-
-
-    ![Screenshot from 2024-10-19 23-36-25](https://github.com/user-attachments/assets/a2db463c-5fcd-44f7-abcf-4fdf81586cd6)
-
-
-    ![Screenshot from 2024-10-19 23-36-58](https://github.com/user-attachments/assets/136efefd-bd05-48a8-b645-132e79922541)
 
 </details>
 
