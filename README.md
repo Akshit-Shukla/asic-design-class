@@ -544,6 +544,15 @@ The output waveform is as shown below including clk named CPU_clk_aks_a0 , reset
 
 ![Screenshot from 2024-10-19 23-36-58](https://github.com/user-attachments/assets/e19cc036-7b8b-4efc-a69e-94737ab62cdd)
 
+  Day 2:
+    Below are the snapshots for day 2 activities :
+
+    ![Screenshot from 2024-10-20 10-53-34](https://github.com/user-attachments/assets/3128cb2c-41e3-40f6-8957-f29384fb6c47)
+![Screenshot from 2024-10-20 10-53-34](https://github.com/user-attachments/assets/26847e7f-a3cc-428b-92ff-000c9999614f)
+
+    
+![Screenshot from 2024-10-20 10-53-47](https://github.com/user-attachments/assets/33e72dd5-d963-4b3d-9e48-adfb91137fd0)
+
 
 
 
