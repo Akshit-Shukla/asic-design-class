@@ -520,6 +520,41 @@ The output waveform is as shown below including clk named CPU_clk_aks_a0 , reset
 
    ![Screenshot from 2024-10-19 11-15-09](https://github.com/user-attachments/assets/bda176d1-5f0a-421a-8345-887f0e84b03d)
 
+   ![Screenshot from 2024-10-19 11-44-59](https://github.com/user-attachments/assets/b465fe4e-57e7-4801-a33f-08b1063800f3)
+
+   ![Screenshot from 2024-10-19 11-45-15](https://github.com/user-attachments/assets/c4a94d99-d855-4a2c-b3b1-59e5e88fb340)
+
+   ![Screenshot from 2024-10-19 11-45-35](https://github.com/user-attachments/assets/d8ea82aa-788f-4755-81a5-5290559aaa4b)
+
+   ![Screenshot from 2024-10-19 13-39-32](https://github.com/user-attachments/assets/cb2ad8e4-94fd-4b39-8de5-4ee2f629b8d3)
+
+   ![Screenshot from 2024-10-19 23-25-58](https://github.com/user-attachments/assets/9c6dc800-2a7b-480a-aed1-a829d9641053)
+
+   ![Screenshot from 2024-10-19 23-27-28](https://github.com/user-attachments/assets/198ae750-3e82-43ac-a052-1f8905f820ed)
+
+   ![Screenshot from 2024-10-19 23-27-58](https://github.com/user-attachments/assets/442cc227-6229-415d-a180-a89aa41ad7ca)
+
+   ![Screenshot from 2024-10-19 23-28-35](https://github.com/user-attachments/assets/85b1b879-a439-4bc6-b584-a43101403e74)
+
+   ![Screenshot from 2024-10-19 23-28-35](https://github.com/user-attachments/assets/a8f3c82c-c5c8-4add-88e8-5bcf51f8834c)
+
+   ![Screenshot from 2024-10-19 23-35-20](https://github.com/user-attachments/assets/4070634f-bf4b-4061-9afe-b70885a1af6d)
+
+   ![Screenshot from 2024-10-19 23-35-32](https://github.com/user-attachments/assets/834fbecd-ea4b-4c3c-bf34-64f3e9f9cb14)
+
+  ![Screenshot from 2024-10-19 23-36-25](https://github.com/user-attachments/assets/41e536f7-9307-4883-a77a-0b7849995e17)
+
+![Screenshot from 2024-10-19 23-36-58](https://github.com/user-attachments/assets/e19cc036-7b8b-4efc-a69e-94737ab62cdd)
+
+
+
+
+
+
+
+
+
+
 
 
 </details>
