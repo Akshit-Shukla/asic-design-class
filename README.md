@@ -601,9 +601,34 @@ The output waveform is as shown below including clk named CPU_clk_aks_a0 , reset
 ![Screenshot from 2024-10-20 11-24-03](https://github.com/user-attachments/assets/a9843318-1be4-43e7-beea-8f5c3aa9439b)
 
 
+Asynchronous Reset :
 
 
+![Screenshot from 2024-10-20 22-05-03](https://github.com/user-attachments/assets/92045009-e446-4b70-8e64-3aab92024708)
 
+
+![Screenshot from 2024-10-20 22-06-37](https://github.com/user-attachments/assets/5530059c-57ac-44d3-b596-5bd593d0369c)
+
+
+![Screenshot from 2024-10-20 22-06-53](https://github.com/user-attachments/assets/d86a7351-81c9-48a6-9e0d-2bc7e516412c)
+
+
+![Screenshot from 2024-10-20 22-05-54](https://github.com/user-attachments/assets/1311027e-2681-47eb-85d2-a851eeee587c)
+
+
+Synchronous Reset :
+
+
+![image](https://github.com/user-attachments/assets/c811114d-71a6-47d3-971f-877c4007e52c)
+
+
+![image](https://github.com/user-attachments/assets/d4e7b245-e4ed-4e23-b7b5-d232e8bd80d5)
+
+
+![Screenshot from 2024-10-20 22-10-29](https://github.com/user-attachments/assets/2056767e-0d8d-4a77-b5e5-a3d630650782)
+
+
+![Screenshot from 2024-10-20 22-10-14](https://github.com/user-attachments/assets/a42dcaa0-90fa-410b-b9c2-80f6b50025d2)
 
 
 
