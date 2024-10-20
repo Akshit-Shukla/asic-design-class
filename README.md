@@ -547,12 +547,51 @@ The output waveform is as shown below including clk named CPU_clk_aks_a0 , reset
   Day 2:
     Below are the snapshots for day 2 activities :
 
-    ![Screenshot from 2024-10-20 10-53-34](https://github.com/user-attachments/assets/3128cb2c-41e3-40f6-8957-f29384fb6c47)
+    
 ![Screenshot from 2024-10-20 10-53-34](https://github.com/user-attachments/assets/26847e7f-a3cc-428b-92ff-000c9999614f)
 
     
 ![Screenshot from 2024-10-20 10-53-47](https://github.com/user-attachments/assets/33e72dd5-d963-4b3d-9e48-adfb91137fd0)
 
+![Screenshot from 2024-10-20 10-53-47](https://github.com/user-attachments/assets/f844ba76-00af-4890-ad92-25d574e58df3)
+
+![Screenshot from 2024-10-20 10-54-01](https://github.com/user-attachments/assets/075b0d6f-8d7f-4dac-8325-f24409cab2a4)
+![Screenshot from 2024-10-20 10-54-37](https://github.com/user-attachments/assets/652c1c74-04b5-4266-818f-f3078967486e)
+![Screenshot from 2024-10-20 10-57-09](https://github.com/user-attachments/assets/d3efd071-ef34-4a50-815a-20e51fdc9ae1)
+![Screenshot from 2024-10-20 10-58-45](https://github.com/user-attachments/assets/da6475d1-b42b-4bff-8d6e-4f3d9ec7c914)
+
+![Screenshot from 2024-10-20 11-04-23](https://github.com/user-attachments/assets/cc245bb0-f5f7-41a4-b3d6-d84b5acca290)
+
+![Screenshot from 2024-10-20 11-18-26](https://github.com/user-attachments/assets/17146423-e0bc-4345-9b3c-19f00a5e62c5)
+
+![Screenshot from 2024-10-20 11-18-33](https://github.com/user-attachments/assets/f58a136a-13ba-4c90-8ac7-71fcd9bff176)
+
+![Screenshot from 2024-10-20 11-18-39](https://github.com/user-attachments/assets/746d151a-8106-4725-8d3f-aa993a18c69e)
+
+![Screenshot from 2024-10-20 11-18-45](https://github.com/user-attachments/assets/c220a0ca-5d38-49c8-81a1-f3cb5550573c)
+
+![Screenshot from 2024-10-20 11-18-50](https://github.com/user-attachments/assets/b42c39fd-bb4b-4636-ab31-5fb107493e28)
+
+![Screenshot from 2024-10-20 11-18-55](https://github.com/user-attachments/assets/d65ed5c0-3934-48b0-ad58-355b50aff823)
+
+![Screenshot from 2024-10-20 11-19-01](https://github.com/user-attachments/assets/e0b05db8-3578-43cd-99f7-eda77b6b8830)
+
+![Screenshot from 2024-10-20 11-19-14](https://github.com/user-attachments/assets/4924d4ed-7187-42de-9710-d421dc1f46c6)
+
+![Screenshot from 2024-10-20 11-19-21](https://github.com/user-attachments/assets/ed80d092-3842-4375-9e75-211474bcf7ab)
+
+![Screenshot from 2024-10-20 11-19-28](https://github.com/user-attachments/assets/7f3ae140-1bcf-4ce1-b8e7-9981ab3794c9)
+
+![Screenshot from 2024-10-20 11-19-43](https://github.com/user-attachments/assets/76bd706f-88e0-4eba-b20c-c6b6b1368ea1)
+  
+
+![Screenshot from 2024-10-20 11-22-49](https://github.com/user-attachments/assets/3eb458ff-99e8-4c06-a4eb-8c74e6ab6ec5)
+
+![Screenshot from 2024-10-20 11-23-52](https://github.com/user-attachments/assets/44d6154d-e854-451a-a569-457ab1489fd2)
+
+![Screenshot from 2024-10-20 11-23-58](https://github.com/user-attachments/assets/ebe84035-b390-4e27-95f0-05a8db6ebfd6)
+
+![Screenshot from 2024-10-20 11-24-03](https://github.com/user-attachments/assets/a9843318-1be4-43e7-beea-8f5c3aa9439b)
 
 
 
