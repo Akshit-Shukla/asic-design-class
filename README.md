@@ -636,6 +636,7 @@ Synchronous Reset :
 
 
 
+
 </details>
 
 
