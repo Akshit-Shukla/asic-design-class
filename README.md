@@ -619,7 +619,8 @@ Asynchronous Reset :
 Synchronous Reset :
 
 
-![image](https://github.com/user-attachments/assets/c811114d-71a6-47d3-971f-877c4007e52c)
+
+![Screenshot from 2024-10-20 22-12-38](https://github.com/user-attachments/assets/62c32ba4-1f10-48f5-8fbe-d3c5b58465a8)
 
 
 ![image](https://github.com/user-attachments/assets/d4e7b245-e4ed-4e23-b7b5-d232e8bd80d5)
