@@ -526,7 +526,6 @@ The output waveform is as shown below including clk named CPU_clk_aks_a0 , reset
 
    ![Screenshot from 2024-10-19 11-45-35](https://github.com/user-attachments/assets/d8ea82aa-788f-4755-81a5-5290559aaa4b)
 
-   ![Screenshot from 2024-10-19 13-39-32](https://github.com/user-attachments/assets/cb2ad8e4-94fd-4b39-8de5-4ee2f629b8d3)
 
    ![Screenshot from 2024-10-19 23-25-58](https://github.com/user-attachments/assets/9c6dc800-2a7b-480a-aed1-a829d9641053)
 
