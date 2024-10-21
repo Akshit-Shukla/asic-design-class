@@ -763,6 +763,32 @@ Multiple Module Optimization 1 :
 
 ![image](https://github.com/user-attachments/assets/3de6e364-f862-41d5-bc01-1682bc48ab6f)
 
+Multiple Module optimization 2 :
+
+![Screenshot from 2024-10-21 21-25-51](https://github.com/user-attachments/assets/5aedc7f4-b7a2-4af9-a588-7c04423946d6)
+
+![Screenshot from 2024-10-21 21-26-22](https://github.com/user-attachments/assets/882daa8c-19f6-41af-a44a-cc5dd105eea7)
+
+![Screenshot from 2024-10-21 21-26-28](https://github.com/user-attachments/assets/b850fcc9-ba64-405c-bfd5-8a1a31f0e7df)
+
+![Screenshot from 2024-10-21 21-26-46](https://github.com/user-attachments/assets/e4ba29c4-8fd8-4e6e-98bb-2104493461f9)
+
+D flip flop constant 1 with asynchronous reset (Active low):
+![Screenshot from 2024-10-21 21-29-22](https://github.com/user-attachments/assets/23a05e39-a471-4cb9-a7d7-2b3d2c453d89)
+
+![Screenshot from 2024-10-21 21-29-45](https://github.com/user-attachments/assets/b53b4988-d73f-491e-b405-4c00f8845b6c)
+
+![Screenshot from 2024-10-21 21-30-49](https://github.com/user-attachments/assets/e1251cfb-3681-488b-a8a4-0659e66b509e)
+
+![Screenshot from 2024-10-21 21-30-55](https://github.com/user-attachments/assets/eafa5293-fc55-48b2-b172-fb8c58899afc)
+
+![Screenshot from 2024-10-21 21-31-25](https://github.com/user-attachments/assets/fd1787db-86d4-45eb-8bdc-e94717656e83)
+
+![Screenshot from 2024-10-21 21-31-30](https://github.com/user-attachments/assets/8ac6f193-c057-49db-b593-0f8525353794)
+
+![Screenshot from 2024-10-21 21-31-53](https://github.com/user-attachments/assets/fa562be3-5b71-4e93-a62c-8cff2f2043eb)
+
+
 
 </details>
 
