@@ -826,6 +826,22 @@ D flip flop constant 5 with Asynchronous Reset :
 
 ![Screenshot from 2024-10-21 21-56-53](https://github.com/user-attachments/assets/fd88e430-17e7-4554-9402-4afaf7b5e9b5)
 
+Counter optimization 1 :
+
+![Screenshot from 2024-10-21 21-59-13](https://github.com/user-attachments/assets/dd9e6203-6941-45f5-9d56-da792bb39d13)
+
+![Screenshot from 2024-10-21 21-59-50](https://github.com/user-attachments/assets/b2967312-e598-4b3b-823f-deed51a84dfb)
+
+![Screenshot from 2024-10-21 22-00-04](https://github.com/user-attachments/assets/70ac6e93-5958-4cec-8d2b-5522d383f76b)
+
+Counter Optimization 2 :
+
+![Screenshot from 2024-10-21 22-01-25](https://github.com/user-attachments/assets/2c16a02c-3585-4c80-930f-13728aca208a)
+
+![Screenshot from 2024-10-21 22-02-19](https://github.com/user-attachments/assets/e4f45278-3867-47fd-ab53-2b1ba9d48f4b)
+
+![Screenshot from 2024-10-21 22-02-31](https://github.com/user-attachments/assets/b7a963bb-9426-404c-9df3-a6814c3cf955)
+
 
 
 
