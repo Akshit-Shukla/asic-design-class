@@ -860,6 +860,47 @@ Design of 2:1 MUX using Ternary operator :
 
 ![Screenshot from 2024-10-21 23-07-14](https://github.com/user-attachments/assets/02d640a1-0089-42e8-b906-513b77958237)
 
+![Screenshot from 2024-10-21 23-11-01](https://github.com/user-attachments/assets/8c839f6b-d09a-4c90-bfea-8d53930991d6)
+
+![Screenshot from 2024-10-21 23-12-33](https://github.com/user-attachments/assets/3b853f7f-68a7-493c-910d-38018ed8eb79)
+
+![Screenshot from 2024-10-21 23-12-23](https://github.com/user-attachments/assets/09e15a87-36c8-4e6a-8719-95244d5057c4)
+
+Design of a Bad 2:1 Mux :
+
+![Screenshot from 2024-10-21 23-13-57](https://github.com/user-attachments/assets/f9276fa3-6727-46fe-ac6d-1bd3837ff501)
+
+![Screenshot from 2024-10-21 23-14-21](https://github.com/user-attachments/assets/4cdbac18-5da6-43e3-b6f3-3f3f1c81e3fb)
+
+![Screenshot from 2024-10-21 23-15-42](https://github.com/user-attachments/assets/bdb85f54-7b81-45a2-bf91-2a13f8aad523)
+
+![Screenshot from 2024-10-21 23-16-09](https://github.com/user-attachments/assets/a6d880fa-e8aa-49a8-9f32-16774a9c919f)
+
+
+![Screenshot from 2024-10-21 23-16-26](https://github.com/user-attachments/assets/ad54380a-5983-43d8-b003-2b8dc46c5e5b)
+
+![Screenshot from 2024-10-21 23-16-40](https://github.com/user-attachments/assets/a62506ad-0f36-4701-b1d3-0fbad32e9ad4)
+
+Blocking Caveat :
+
+![Screenshot from 2024-10-21 23-18-59](https://github.com/user-attachments/assets/cdf0ed22-a247-4fd1-a16f-4f6f3d5b91ee)
+
+![Screenshot from 2024-10-21 23-18-46](https://github.com/user-attachments/assets/6a90a00b-d20c-4770-8eb5-268c21e42355)
+
+![Screenshot from 2024-10-21 23-19-22](https://github.com/user-attachments/assets/01a0dec0-a4bb-4eac-8f9d-529f97896463)
+
+![Screenshot from 2024-10-21 23-21-06](https://github.com/user-attachments/assets/44610a6b-c6e6-4a42-9c18-f5ddc84e0eff)
+
+
+![Screenshot from 2024-10-21 23-22-15](https://github.com/user-attachments/assets/8bfc384f-8803-4676-b3cf-b1a17c2ff78c)
+
+![Screenshot from 2024-10-21 23-22-31](https://github.com/user-attachments/assets/263cce39-9587-46dd-b924-a26fece0ffd2)
+
+![Screenshot from 2024-10-21 23-22-51](https://github.com/user-attachments/assets/41699e21-3df3-4009-87c1-ce5b229a33a9)
+
+
+
+
 
 
 </details>
