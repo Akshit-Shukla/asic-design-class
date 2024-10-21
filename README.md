@@ -843,7 +843,22 @@ Counter Optimization 2 :
 ![Screenshot from 2024-10-21 22-02-31](https://github.com/user-attachments/assets/b7a963bb-9426-404c-9df3-a6814c3cf955)
 
 
+DAY 4 :
 
+Design of 2:1 MUX using Ternary operator :
+
+
+![Screenshot from 2024-10-21 23-02-02](https://github.com/user-attachments/assets/92487a68-9e7b-4d19-aac8-f706bb0acc91)
+
+![Screenshot from 2024-10-21 23-02-20](https://github.com/user-attachments/assets/5a9efa44-4267-41f8-ba4b-5b29122803d5)
+
+![Screenshot from 2024-10-21 23-05-17](https://github.com/user-attachments/assets/daf7ca16-5d05-4249-8720-1fbdb605956a)
+
+![Screenshot from 2024-10-21 23-06-13](https://github.com/user-attachments/assets/701c0c64-6ab3-404f-82a8-1e9b4384578c)
+
+![Screenshot from 2024-10-21 23-07-02](https://github.com/user-attachments/assets/dc125582-ee0f-4a02-934c-e8d0b70b187e)
+
+![Screenshot from 2024-10-21 23-07-14](https://github.com/user-attachments/assets/02d640a1-0089-42e8-b906-513b77958237)
 
 
 
