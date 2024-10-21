@@ -705,6 +705,64 @@ Multiplication By 9 :
 
 ![Screenshot from 2024-10-21 19-41-16](https://github.com/user-attachments/assets/55328586-b5a7-4062-8b1e-1d696501c551)
 
+Day 3 :
+
+Optimization of various designs
+Design infers 2 input AND GATE :
+
+![Screenshot from 2024-10-21 20-33-16](https://github.com/user-attachments/assets/e1c0d2dd-5573-46f8-98f7-9772ef7656a8)
+
+![Screenshot from 2024-10-21 20-33-44](https://github.com/user-attachments/assets/ce1fb3e2-7848-4872-ac8c-c5c027843a38)
+
+![Screenshot from 2024-10-21 20-34-02](https://github.com/user-attachments/assets/6117ad2e-11d1-4254-9bdb-2b9d04c15aac)
+
+![Screenshot from 2024-10-21 20-34-58](https://github.com/user-attachments/assets/247eb96e-4c69-40ef-95f9-93754d17117a)
+
+Design infers 2 input OR Gates :
+
+![Screenshot from 2024-10-21 20-38-21](https://github.com/user-attachments/assets/df4706ca-c3df-44b6-b5aa-7042195c5f09)
+
+![Screenshot from 2024-10-21 20-38-26](https://github.com/user-attachments/assets/913f4c23-0a07-43fe-9ee7-3190cb802b2b)
+
+![Screenshot from 2024-10-21 20-38-46](https://github.com/user-attachments/assets/1929b730-68c2-4c5d-81cd-b4de133c9682)
+
+![Screenshot from 2024-10-21 20-38-55](https://github.com/user-attachments/assets/e16fb7c2-5a47-4963-8673-1e8a59a695b2)
+![Screenshot from 2024-10-21 20-41-32](https://github.com/user-attachments/assets/cd387f8c-e545-4089-9b8d-1af1821af60a)
+
+Design infers 3 input AND gate :
+
+![Screenshot from 2024-10-21 20-43-42](https://github.com/user-attachments/assets/47992fbd-c34f-45f5-b5be-d6d753e6eeea)
+
+![Screenshot from 2024-10-21 20-44-01](https://github.com/user-attachments/assets/3b5ce902-9561-499f-9b9b-a20375861e42)
+
+![Screenshot from 2024-10-21 20-44-20](https://github.com/user-attachments/assets/a7d1a13a-3b6c-4f83-940a-84679f9f911c)
+
+![Screenshot from 2024-10-21 20-44-38](https://github.com/user-attachments/assets/e61111d0-0686-489a-a290-27064c2ebdc2)
+
+Design infers 2 input XNOR Gate :
+
+![Screenshot from 2024-10-21 20-46-30](https://github.com/user-attachments/assets/64c76146-03d6-44cb-89f2-4214fe91cd6a)
+
+![Screenshot from 2024-10-21 20-46-42](https://github.com/user-attachments/assets/a3afd3e3-8c4c-416a-9b9f-58f62f77d83e)
+
+![Screenshot from 2024-10-21 20-46-56](https://github.com/user-attachments/assets/cf8cf2fa-4c4d-4309-b851-c92e426a6c3e)
+
+![Screenshot from 2024-10-21 20-47-05](https://github.com/user-attachments/assets/ff073ab9-571b-4881-b2b3-b88b63f925c6)
+
+![image](https://github.com/user-attachments/assets/6e9ec96c-7c0b-455d-b797-2955c8d39180)
+
+Multiple Module Optimization 1 :
+
+![Screenshot from 2024-10-21 20-50-27](https://github.com/user-attachments/assets/7b6f6642-1a30-4097-877b-97ca637033da)
+
+![Screenshot from 2024-10-21 20-50-31](https://github.com/user-attachments/assets/4ae90e56-2376-4b8d-a00b-d9e61cbf9cfa)
+
+![Screenshot from 2024-10-21 20-50-43](https://github.com/user-attachments/assets/d6cfdd33-bea0-47b3-b220-b7e5fddb117a)
+
+![Screenshot from 2024-10-21 21-19-32](https://github.com/user-attachments/assets/9740c34a-2d67-4e8a-b629-2cc9510344a4)
+
+![image](https://github.com/user-attachments/assets/3de6e364-f862-41d5-bc01-1682bc48ab6f)
+
 
 </details>
 
