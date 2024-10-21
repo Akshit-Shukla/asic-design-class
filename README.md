@@ -801,6 +801,35 @@ D flip flop constant 2 with Asynchronous Reset (Active High):
 
 ![Screenshot from 2024-10-21 21-40-35](https://github.com/user-attachments/assets/3031c849-729f-422b-87f7-a407273fc7bf)
 
+D flip flop constant 3 with Asynchronous Reset (Active low) :
+
+![Screenshot from 2024-10-21 21-50-18](https://github.com/user-attachments/assets/a9983d34-0f18-440c-8d2a-48b4d2f53406)
+
+![Screenshot from 2024-10-21 21-50-46](https://github.com/user-attachments/assets/cf64b474-76be-4e80-94de-ed5e767ccd55)
+
+![Screenshot from 2024-10-21 21-50-59](https://github.com/user-attachments/assets/f36d8ec9-ccba-4791-8085-fa8a47464ff8)
+
+D flip flop constant 4 Asynchronous Reset (Active Low) :
+
+![Screenshot from 2024-10-21 21-53-46](https://github.com/user-attachments/assets/0434d448-b645-4c1c-97bf-a20c55c3f672)
+
+![Screenshot from 2024-10-21 21-54-10](https://github.com/user-attachments/assets/87c014d5-5432-4172-8373-5909d4f97b43)
+
+
+![Screenshot from 2024-10-21 21-54-25](https://github.com/user-attachments/assets/f0591986-2c00-4ec7-8c7b-0fde01aad3af)
+
+D flip flop constant 5 with Asynchronous Reset :
+
+![Screenshot from 2024-10-21 21-56-22](https://github.com/user-attachments/assets/83ae3950-6c69-4333-9bf3-5c569021e9ab)
+
+![Screenshot from 2024-10-21 21-56-43](https://github.com/user-attachments/assets/f5a3f784-2828-4a6a-908e-1e89e1df8d98)
+
+![Screenshot from 2024-10-21 21-56-53](https://github.com/user-attachments/assets/fd88e430-17e7-4554-9402-4afaf7b5e9b5)
+
+
+
+
+
 
 </details>
 
