@@ -641,8 +641,36 @@ Asynchronous Set :
 
 Asynchronous Reset :
 
+![Screenshot from 2024-10-21 18-59-52](https://github.com/user-attachments/assets/884e4c74-4a10-4205-9416-336ac17b0025)
+
+![Screenshot from 2024-10-21 19-00-14](https://github.com/user-attachments/assets/638f9370-4e23-4557-895a-b01375243cd2)
+
+![Screenshot from 2024-10-21 19-01-37](https://github.com/user-attachments/assets/bc2e4d2d-8215-4558-8dcb-f4df36c080bd)
+
+Asynchronous Set :
+
+![Screenshot from 2024-10-21 19-04-20](https://github.com/user-attachments/assets/71c051f0-e0bf-46c4-b854-8a340b7711d9)
 
 
+
+  ![Screenshot from 2024-10-21 19-05-03](https://github.com/user-attachments/assets/3e4c218f-7e00-4493-b210-bfa30874e788)
+
+
+![Screenshot from 2024-10-21 19-25-17](https://github.com/user-attachments/assets/eb2c51d4-4e05-49f0-b7f3-104ce0522333)
+
+Synchronous Reset :
+
+
+![Screenshot from 2024-10-21 19-27-31](https://github.com/user-attachments/assets/75ea9493-6ba8-436e-933c-453676fc4d83)
+
+
+![Screenshot from 2024-10-21 19-30-26](https://github.com/user-attachments/assets/ed6cfb9c-c6ce-482e-9835-2d9529338556)
+
+
+![Screenshot from 2024-10-21 19-30-44](https://github.com/user-attachments/assets/e0e10d16-2957-4a50-bd03-fa4caa021bfb)
+
+
+![Screenshot from 2024-10-21 19-31-17](https://github.com/user-attachments/assets/4076642d-a27d-42f9-95e4-5dcfddd55315)
 
 
 
