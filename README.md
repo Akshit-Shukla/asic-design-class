@@ -788,6 +788,15 @@ D flip flop constant 1 with asynchronous reset (Active low):
 
 ![Screenshot from 2024-10-21 21-31-53](https://github.com/user-attachments/assets/fa562be3-5b71-4e93-a62c-8cff2f2043eb)
 
+D flip flop constant 2 with Asynchronous Reset (Active High):
+
+![Screenshot from 2024-10-21 21-39-05](https://github.com/user-attachments/assets/606be055-de4f-4143-b6b4-b4c63b3cdd0d)
+
+![Screenshot from 2024-10-21 21-40-12](https://github.com/user-attachments/assets/a75aa825-cfa0-4c2c-a360-245aae1608b9)
+
+![Screenshot from 2024-10-21 21-40-16](https://github.com/user-attachments/assets/9e9d838a-8ba4-410b-90a3-801b92e781ed)
+
+![Screenshot from 2024-10-21 21-40-35](https://github.com/user-attachments/assets/3031c849-729f-422b-87f7-a407273fc7bf)
 
 
 </details>
