@@ -673,7 +673,37 @@ Synchronous Reset :
 ![Screenshot from 2024-10-21 19-31-17](https://github.com/user-attachments/assets/4076642d-a27d-42f9-95e4-5dcfddd55315)
 
 
+Multiplication By 2 :
 
+
+![Screenshot from 2024-10-21 19-34-05](https://github.com/user-attachments/assets/41ebb8e8-c540-4f20-9384-abbdfc130b82)
+
+
+![Screenshot from 2024-10-21 19-35-52](https://github.com/user-attachments/assets/de2bcdc6-b385-46c9-bb7c-0a8777fdd8b1)
+
+
+
+![Screenshot from 2024-10-21 19-34-18](https://github.com/user-attachments/assets/319c9e47-594f-4ac4-bd66-a5b2bdb33487)
+
+
+![Screenshot from 2024-10-21 19-35-44](https://github.com/user-attachments/assets/28129e55-f943-40ca-bfde-2a827a6cf598)
+
+Multiplication By 9 :
+
+
+![Screenshot from 2024-10-21 19-40-10](https://github.com/user-attachments/assets/532e97c2-a054-491d-abc8-6431f8c7c390)
+
+
+![Screenshot from 2024-10-21 19-40-42](https://github.com/user-attachments/assets/4d341c7b-884b-45a3-87fd-e759f8940d00)
+
+
+![Screenshot from 2024-10-21 19-40-34](https://github.com/user-attachments/assets/273b437f-92dd-4197-9071-a81ff51760c9)
+
+
+![Screenshot from 2024-10-21 19-41-07](https://github.com/user-attachments/assets/eb6ef501-96f0-4159-87a5-a3f33e7bdad2)
+
+
+![Screenshot from 2024-10-21 19-41-16](https://github.com/user-attachments/assets/55328586-b5a7-4062-8b1e-1d696501c551)
 
 
 </details>
