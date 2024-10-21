@@ -631,6 +631,17 @@ Synchronous Reset :
 
 ![Screenshot from 2024-10-20 22-10-14](https://github.com/user-attachments/assets/a42dcaa0-90fa-410b-b9c2-80f6b50025d2)
 
+Asynchronous Set :
+
+![Screenshot from 2024-10-21 09-18-50](https://github.com/user-attachments/assets/720d70d7-9ef5-47d3-a341-263e68005ca0)
+
+![Screenshot from 2024-10-21 09-19-06](https://github.com/user-attachments/assets/fb68d1d5-ef04-49a7-8491-b14a66bcd621)
+
+![Screenshot from 2024-10-21 09-18-12](https://github.com/user-attachments/assets/13bc970e-15e1-41b8-a332-567440c6bb43)
+
+Asynchronous Reset :
+
+
 
 
 
