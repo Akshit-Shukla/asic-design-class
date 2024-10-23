@@ -904,6 +904,45 @@ Blocking Caveat :
 
 
 </details>
+ <summary> Assignment 12 </summary>
+  <br> 
+  The following commands were used to generate the netlist and the mapped netlist verilog design from the rvmyth core verilog file:
+
+  ![Screenshot from 2024-10-23 23-48-16](https://github.com/user-attachments/assets/001f20bd-8e7d-46b1-bb62-caac7185df26)
+![Screenshot from 2024-10-23 23-48-52](https://github.com/user-attachments/assets/19d559d4-4653-49ab-836d-199f3b320e91)
+![Screenshot from 2024-10-23 23-49-03](https://github.com/user-attachments/assets/98538f13-a19a-439c-a8d2-b6c34c649a5a)
+
+The generated netlist verilog and mapped netlist verilog is shown below :
+
+![Screenshot from 2024-10-23 23-52-50](https://github.com/user-attachments/assets/64c3686c-fb36-48db-a65a-85756425b8f3)
+
+![Screenshot from 2024-10-23 23-56-17](https://github.com/user-attachments/assets/3b4fb68b-284e-4c86-828d-aca265727849)
+
+Top Module " vsdbabysoc" was edited to included to integrated the newly generated netlist verilog :
+![Screenshot from 2024-10-24 00-02-42](https://github.com/user-attachments/assets/dee0a810-8ae8-46b3-a120-3526c76257ea)
+
+The testbench has been changed to :
+
+![Screenshot from 2024-10-24 00-03-10](https://github.com/user-attachments/assets/13fb8623-da31-48e8-8cbb-156ad5e01e26)
+
+The following commands were used to simulate the new SOC which includes the synthesized RVMYTH core :
+
+![Screenshot from 2024-10-23 23-51-31](https://github.com/user-attachments/assets/149e9300-e5de-41ac-b4f3-e1b4d91ee016)
+
+The gtkwave window showing the output and the clock is :
+
+![Screenshot from 2024-10-23 23-55-54](https://github.com/user-attachments/assets/03ef0559-659a-42ff-8b76-df9b10673269)
+
+The standard cell highlighted in the image is "7059" the same cell is available in the code as shown in the code :
+
+![Screenshot from 2024-10-23 23-55-45](https://github.com/user-attachments/assets/f7b9278e-9a51-4f8a-904b-4c74a5b94667)
+
+
+We have successfully demonstrated that the output for the RVMYTH RTL design and the synthesized design are same.
+
+<details>
+  
+</details>
 
 
 
