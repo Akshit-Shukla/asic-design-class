@@ -910,6 +910,19 @@ Blocking Caveat :
   <br> 
   The following commands were used to generate the netlist and the mapped netlist verilog design from the rvmyth core verilog file:
 
+```
+read_liberty -lib ~/Asic_Tasks/VLSI/sky130RTLDesignAndSynthesisWorkshop/lib/sky130_fd_sc_hd__tt_025C_1v80.lib 
+
+read_verilog rvmyth_final.v clk_gate.v 
+
+synth -top rvmyth_final 
+
+abc -liberty ~/Asic_Tasks/VLSI/sky130RTLDesignAndSynthesisWorkshop/lib/sky130_fd_sc_hd__tt_025C_1v80.lib 
+
+write_verilog rvmyth_final_net_map.v
+
+```
+
   ![Screenshot from 2024-10-23 23-48-16](https://github.com/user-attachments/assets/001f20bd-8e7d-46b1-bb62-caac7185df26)
 ![Screenshot from 2024-10-23 23-48-52](https://github.com/user-attachments/assets/19d559d4-4653-49ab-836d-199f3b320e91)
 ![Screenshot from 2024-10-23 23-49-03](https://github.com/user-attachments/assets/98538f13-a19a-439c-a8d2-b6c34c649a5a)
