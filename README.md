@@ -960,6 +960,10 @@ The output for the RTL code for RVMYTH core is shown below :
 
 We have successfully demonstrated that the output for the RVMYTH RTL design and the synthesized design are same.
 
+The Heirarchy of the Net list is shown below :
+
+![image](https://github.com/user-attachments/assets/e23930a0-bc82-45ef-9d57-520161373109)
+
   
 </details>
 
