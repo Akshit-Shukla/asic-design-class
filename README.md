@@ -904,6 +904,8 @@ Blocking Caveat :
 
 
 </details>
+
+<details>
  <summary> Assignment 12 </summary>
   <br> 
   The following commands were used to generate the netlist and the mapped netlist verilog design from the rvmyth core verilog file:
@@ -940,7 +942,6 @@ The standard cell highlighted in the image is "7059" the same cell is available 
 
 We have successfully demonstrated that the output for the RVMYTH RTL design and the synthesized design are same.
 
-<details>
   
 </details>
 
