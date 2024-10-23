@@ -946,7 +946,8 @@ The following commands were used to simulate the new SOC which includes the synt
 
 The gtkwave window showing the output and the clock is :
 
-![Screenshot from 2024-10-23 23-55-54](https://github.com/user-attachments/assets/03ef0559-659a-42ff-8b76-df9b10673269)
+![Screenshot from 2024-10-24 01-25-52](https://github.com/user-attachments/assets/a5af2473-ac91-4843-9099-82c8ced96757)
+
 
 The standard cell highlighted in the image is "7059" the same cell is available in the code as shown in the code :
 
