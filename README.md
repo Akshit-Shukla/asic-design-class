@@ -953,6 +953,10 @@ The standard cell highlighted in the image is "7059" the same cell is available 
 
 ![Screenshot from 2024-10-23 23-55-45](https://github.com/user-attachments/assets/f7b9278e-9a51-4f8a-904b-4c74a5b94667)
 
+The output for the RTL code for RVMYTH core is shown below :
+
+![Screenshot from 2024-10-24 01-37-29](https://github.com/user-attachments/assets/1a8db0e2-4e10-43e7-a328-5c817fd7948e)
+
 
 We have successfully demonstrated that the output for the RVMYTH RTL design and the synthesized design are same.
 
