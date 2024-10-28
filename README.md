@@ -1,4 +1,3 @@
-![Screenshot from 2024-10-28 21-33-49](https://github.com/user-attachments/assets/6723cd85-2fe0-46ba-a69d-0931d2651da9)# *Asic-design-class*
 
 <details>
 <summary> Assignment 1</summary>
@@ -970,6 +969,7 @@ The Heirarchy of the Net list is shown below :
   <summary> Assignment 13 </summary>
   <br>
   In this task STA was performed on the RV core netlist generated with yosys. The following commands we run to perform the analysis:
+  
   ![Screenshot from 2024-10-28 21-33-49](https://github.com/user-attachments/assets/fda39c1c-5ca9-40d7-a7c3-7700952655ec)
   ![Screenshot from 2024-10-28 21-35-42](https://github.com/user-attachments/assets/f6029870-d452-4941-9923-6edd55dc6948)
   ![Screenshot from 2024-10-28 21-36-02](https://github.com/user-attachments/assets/810cd1fd-c8c5-4ffc-8aca-87297148732a)
