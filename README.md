@@ -979,5 +979,32 @@ The Heirarchy of the Net list is shown below :
 </details>
 
 
+<details>
+  <summary> Assignment 14 </summary>
+  <br>
+  In this task we are performing STA on the core netlist we generated, using other library files.
 
+  The sdc file is shown below :
+
+  ![Screenshot from 2024-11-04 23-25-34](https://github.com/user-attachments/assets/505db5c8-60b2-454c-a01a-f43b0436e36d)
+
+  The script is shown below :
+
+  ![Screenshot from 2024-11-04 23-27-54](https://github.com/user-attachments/assets/cabfc628-7ef9-463f-a5e1-16ddbbd6761f)
+
+  the output data is shown in the table below :
+  ![Screenshot from 2024-11-04 22-29-07](https://github.com/user-attachments/assets/0216272d-ff89-42e7-ae47-f78634c76e9b)
+
+  The plots for the variour outputs is shown below:
+  ![Screenshot from 2024-11-04 23-09-29](https://github.com/user-attachments/assets/f923bdf1-1a15-4b19-9b48-8beedbf436a7)
+
+  ![Screenshot from 2024-11-04 23-11-36](https://github.com/user-attachments/assets/95423060-bf5b-4d17-a990-666270fbcc9f)
+
+  ![Screenshot from 2024-11-04 23-13-49](https://github.com/user-attachments/assets/188874df-996a-436b-828c-7bdc5a7a6585)
+
+  ![Screenshot from 2024-11-04 23-08-06](https://github.com/user-attachments/assets/09503483-f989-43f1-8039-37b6c60cbb5a)
+
+
+
+</details>
 
