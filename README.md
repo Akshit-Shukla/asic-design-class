@@ -1008,3 +1008,26 @@ The Heirarchy of the Net list is shown below :
 
 </details>
 
+<details>
+  <summary> Assignment 15 </summary>
+  <br>
+Day 1 : Introduction to Open Source EDA, OpenLANE and Sky130 PDK
+
+![Screenshot 2024-11-13 141249](https://github.com/user-attachments/assets/f7ff7423-cceb-44a3-a819-cf832149f4f7)
+
+![Screenshot 2024-11-13 141351](https://github.com/user-attachments/assets/9ecf8b31-88cd-4c22-9842-cd0c2bc7a0b8)
+
+![Screenshot 2024-11-13 160022](https://github.com/user-attachments/assets/ad866101-4840-4ccd-92f4-ca5ce5bc8b11)
+
+![Screenshot 2024-11-13 160900](https://github.com/user-attachments/assets/1116189d-f2be-407e-b5b1-5ea278c014ee)
+
+To calculate the Flop Ratio : Screen shot of the synthesis report is given:
+
+Calculation of Flop Ratio and DFF % from synthesis statistics report file
+
+Flop Ratio = 1613/14876 = 0.108429685 Percentage of DFFs = 0.108429685*100 = 10.8429685
+
+</details>
+
+
+
