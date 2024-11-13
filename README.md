@@ -1,4 +1,3 @@
-![Screenshot 2024-11-13 162445](https://github.com/user-attachments/assets/f9cecccc-d413-4dfc-9ae7-376a9b3111eb)
 <details>
 <summary> Assignment 1</summary>
 <br>
@@ -1080,6 +1079,160 @@ Day 2 : Good floorplan vs bad floorplan and introduction to library cells
 
 
    ![Screenshot 2024-11-13 190755](https://github.com/user-attachments/assets/31ce9a5c-3545-44be-bf03-0ef586e35abf)
+
+
+  Day 3: Pre-layout timing analysis and importance of good clock tree
+
+  ![Screenshot 2024-11-13 201535](https://github.com/user-attachments/assets/0507bd1c-ee2a-4006-9fb9-8e4b4c4517a1)
+
+  ![Screenshot 2024-11-13 201546](https://github.com/user-attachments/assets/9fb9da8c-fe8b-49fa-aecb-77a3dacfa122)
+
+  ![Screenshot 2024-11-13 204514](https://github.com/user-attachments/assets/5ec93112-76b6-4548-9ec9-dc747d13c3e0)
+
+  ![Screenshot 2024-11-13 204530](https://github.com/user-attachments/assets/4d9009de-fc98-4407-a0ab-267da8495468)
+
+  ![Screenshot 2024-11-13 204638](https://github.com/user-attachments/assets/02575913-4cae-42a5-b83b-a6548ae5afd4)
+
+  ![Screenshot 2024-11-13 204710](https://github.com/user-attachments/assets/2a463174-00db-46b7-a452-7dcf3795c464)
+
+  ![Screenshot 2024-11-13 204756](https://github.com/user-attachments/assets/de3a0204-503f-4a68-b7c2-ed27e4db28ae)
+
+  ![Screenshot 2024-11-13 213301](https://github.com/user-attachments/assets/c2b69e82-b55c-4a40-a76e-883aca002376)
+
+  ![Screenshot 2024-11-13 213348](https://github.com/user-attachments/assets/65a658af-a0cd-4b00-9f94-b94070a0bfd2)
+
+  ![Screenshot 2024-11-13 214934](https://github.com/user-attachments/assets/9372a4f3-d854-49a7-a691-8d2a10a529e5)
+
+  ![Screenshot 2024-11-13 215014](https://github.com/user-attachments/assets/b28b5e2a-c756-4dd0-89db-5a1e8266eb02)
+
+  ![Screenshot 2024-11-13 221218](https://github.com/user-attachments/assets/351cfef5-9d1e-4427-b614-128a64c4eadc)
+
+  ![Screenshot 2024-11-13 221227](https://github.com/user-attachments/assets/4ec7195e-00fb-490e-abed-9d35f6c42c6c)
+
+  ![Screenshot 2024-11-13 221242](https://github.com/user-attachments/assets/1a85aad4-0065-470e-8c2e-54037d5f8ea0)
+
+  Rise transition time calculation
+
+Rise transition time = Time taken for output to rise to 80% - Time taken for output to rise to 20%
+
+20% of output = 660 mV 80% of output = 2.64 V
+
+20% Screenshots
+
+  ![Screenshot 2024-11-13 222231](https://github.com/user-attachments/assets/dff589d4-b482-4696-93dd-dcc7597c5154)
+
+  ![Screenshot 2024-11-13 222318](https://github.com/user-attachments/assets/9583fc20-2204-4bc4-8a70-f5afc595a06d)
+
+  Rise transition time =
+
+Fall transition time calculation
+
+Fall transition time = Time taken for output to fall to 20% - Time taken for output to fall to 80%
+
+20% of output = 660 mV 80% of output = 2.64 V
+
+20% screenshots
+
+  ![Screenshot 2024-11-13 222949](https://github.com/user-attachments/assets/0a0132a4-9b86-4b5e-a37a-d2d7a92d773e)
+
+  ![Screenshot 2024-11-13 223020](https://github.com/user-attachments/assets/20a2049d-9d51-4aef-a4d8-7375d0f99cd9)
+
+  Fall transition time =
+
+Rise Cell Delay Calculation
+
+Rise Cell Delay = Time take for output to rise to 50% - Time taken for input to fall to 50%
+
+50% of 3.3 V = 1.65 V
+
+50% screenshots
+
+
+
+  ![Screenshot 2024-11-13 223104](https://github.com/user-attachments/assets/adf0ed08-a4ca-4674-a415-7f7f250b466f)
+
+  Rise cell delay =
+
+Fall Cell Delay Calculation
+
+Rise Cell Delay = Time take for output to fall to 50% - Time taken for input to rise to 50%
+
+50% of 3.3 V = 1.65 V
+
+50% screenshots
+
+  ![Screenshot 2024-11-13 223136](https://github.com/user-attachments/assets/bbb3cf72-3025-47fb-b055-3a04cb35cba4)
+
+  ![Screenshot 2024-11-13 223427](https://github.com/user-attachments/assets/0ef689ac-4e34-4e4d-862d-4601c8382c57)
+
+  ![Screenshot 2024-11-13 223446](https://github.com/user-attachments/assets/fb5c4964-bdda-4457-aeb4-34bbbc9b0ae3)
+
+  ![Screenshot 2024-11-13 223455](https://github.com/user-attachments/assets/99444ddd-e74d-4210-8ea1-b00dccb3c549)
+
+  ![Screenshot 2024-11-13 223546](https://github.com/user-attachments/assets/bc5f525d-b850-40f6-9372-4689b27db672)
+
+  ![Screenshot 2024-11-13 223553](https://github.com/user-attachments/assets/e83f2240-17c1-462f-be04-0f876f99d1b1)
+
+  ![Screenshot 2024-11-13 223823](https://github.com/user-attachments/assets/1ed65069-188d-4579-81d2-3a9baff6e132)
+
+  ![Screenshot 2024-11-13 234059](https://github.com/user-attachments/assets/e539fb52-9b6e-4e6e-8122-1cf106d13a2a)
+
+  ![Screenshot 2024-11-13 234342](https://github.com/user-attachments/assets/8cadc73d-fb79-44b0-b737-3f037e7c543c)
+
+  ![Screenshot 2024-11-13 235502](https://github.com/user-attachments/assets/eea5cc2d-096c-4a2f-8fa0-f99f3f8f0465)
+
+  ![Screenshot 2024-11-13 235716](https://github.com/user-attachments/assets/89173a38-0473-46da-9f28-d4df1b6195b6)
+
+  ![Screenshot 2024-11-14 004557](https://github.com/user-attachments/assets/5cd8263b-1182-4cd5-8b27-ae0c0d4f13c6)
+
+  ![Screenshot 2024-11-14 004935](https://github.com/user-attachments/assets/b78fc381-dceb-499f-b92a-1ad7c6ec8a9e)
+
+  ![Screenshot 2024-11-14 005321](https://github.com/user-attachments/assets/4cb56987-0a48-4376-8d0f-c35b5718eb51)
+
+  ![Screenshot 2024-11-14 005457](https://github.com/user-attachments/assets/bbd0384a-62a6-4b0b-8737-ba56ad073599)
+
+  ![Screenshot 2024-11-14 005538](https://github.com/user-attachments/assets/c9870b1a-c81f-470c-a690-783b5cae7f55)
+
+  ![Screenshot 2024-11-14 005657](https://github.com/user-attachments/assets/fc4985af-2156-4be1-a956-7914b0beed13)
+
+  ![Screenshot 2024-11-14 005657](https://github.com/user-attachments/assets/5e298699-e69f-46fc-b68a-0568c93bf418)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+  
 
 
 
