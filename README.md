@@ -1068,6 +1068,21 @@ Day 2 : Good floorplan vs bad floorplan and introduction to library cells
 
    ![Screenshot 2024-11-13 185845](https://github.com/user-attachments/assets/4118f75d-3ac3-48e3-bbd0-9e469c605043)
 
+4. Run 'picorv32a' design congestion aware placement using OpenLANE flow and generate necessary outputs.
+   
+   ![Screenshot 2024-11-13 190440](https://github.com/user-attachments/assets/5a05b51c-433b-45a0-827f-030df4dd82da)
+
+   ![Screenshot 2024-11-13 190510](https://github.com/user-attachments/assets/607699f1-6f46-4349-b14f-3232af476f77)
+
+   ![Screenshot 2024-11-13 190736](https://github.com/user-attachments/assets/1d6e42c4-0118-41b1-a66e-bcafd0eb1253)
+
+   ![Screenshot 2024-11-13 191244](https://github.com/user-attachments/assets/db07f77c-87e6-487b-aac6-18197903d664)
+
+
+   ![Screenshot 2024-11-13 190755](https://github.com/user-attachments/assets/31ce9a5c-3545-44be-bf03-0ef586e35abf)
+
+
+
 
 
 
