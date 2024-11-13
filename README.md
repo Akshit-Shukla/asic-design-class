@@ -1,4 +1,4 @@
-
+![Screenshot 2024-11-13 162445](https://github.com/user-attachments/assets/f9cecccc-d413-4dfc-9ae7-376a9b3111eb)
 <details>
 <summary> Assignment 1</summary>
 <br>
@@ -1026,6 +1026,60 @@ To calculate the Flop Ratio : Screen shot of the synthesis report is given:
 Calculation of Flop Ratio and DFF % from synthesis statistics report file
 
 Flop Ratio = 1613/14876 = 0.108429685 Percentage of DFFs = 0.108429685*100 = 10.8429685
+
+
+Day 2 : Good floorplan vs bad floorplan and introduction to library cells
+
+1. Run 'picorv32a' design floorplan using OpenLANE flow and generate necessary outputs.
+
+   ![Screenshot 2024-11-13 162445](https://github.com/user-attachments/assets/67e2e3f2-05b8-497f-8358-1b2607a7596d)
+
+   ![Screenshot 2024-11-13 162504](https://github.com/user-attachments/assets/4e3d3b03-4b40-472e-a813-caf51af1c5bf)
+
+   ![Screenshot 2024-11-13 162825](https://github.com/user-attachments/assets/6a9c7e7a-b9da-4bc6-ae09-4fb96abfbf3e)
+
+   ![Screenshot 2024-11-13 162857](https://github.com/user-attachments/assets/f7712e20-3a5b-4454-b82c-d5a8278074ad)
+
+2. Calculate the die area in microns from the values in floorplan def.
+
+   ![Screenshot 2024-11-13 164752](https://github.com/user-attachments/assets/b5ad6915-5b8f-43d2-86b2-3c85826ddddb)
+
+   According to Floorplan def
+
+1000 unit distance = 1 Micron Die width in unit distance = 660685-0 = 660685 Die height in unit distance = 671405-0 = 671405 Distance in microns = Value in unit distance/1000 Die width in microns = 660685/1000 = 660.685 Microns Die heigth in microns = 671.405 Microns
+
+3. Load generated floorplan def in magic tool and explore the floorplan.
+
+   ![Screenshot 2024-11-13 165340](https://github.com/user-attachments/assets/7f75327c-f59f-4e6b-a7df-cc530e7f4211)
+
+   ![Screenshot 2024-11-13 184907](https://github.com/user-attachments/assets/90241b7d-09e8-4c55-9081-e710aade42ad)
+
+   ![Screenshot 2024-11-13 184922](https://github.com/user-attachments/assets/8ec0ea4d-4fc7-4d45-bf41-eec2170b7c02)
+
+   ![Screenshot 2024-11-13 185044](https://github.com/user-attachments/assets/e1dab24c-5cda-4f03-9c33-8bae3ecfc02e)
+
+   ![Screenshot 2024-11-13 185153](https://github.com/user-attachments/assets/12e7b0ed-12cf-46f6-b5c5-2b2bae1bd48c)
+
+   ![Screenshot 2024-11-13 185600](https://github.com/user-attachments/assets/53d54e05-1220-40d7-af46-f7ca4c0d5ccd)
+
+   ![Screenshot 2024-11-13 185638](https://github.com/user-attachments/assets/255f715b-618c-476a-ae7a-b934136de8ff)
+
+   ![Screenshot 2024-11-13 185801](https://github.com/user-attachments/assets/5734f7ce-17a0-4788-a6ac-bb55747c1289)
+
+   ![Screenshot 2024-11-13 185845](https://github.com/user-attachments/assets/4118f75d-3ac3-48e3-bbd0-9e469c605043)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </details>
 
