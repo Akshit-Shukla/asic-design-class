@@ -1295,14 +1295,35 @@ Day 4 : Pre-layout timing analysis and importance of good clock tree.
 
 
 
+Day 5: Final steps for RTL2GDS using tritonRoute and openSTA
 
+  ![Screenshot 2024-11-15 031105](https://github.com/user-attachments/assets/195b263a-57d0-47b7-8a21-0ec31bfe52f6)
 
+  ![Screenshot 2024-11-15 031118](https://github.com/user-attachments/assets/748243d9-032d-4399-b11b-c57fa95f5880)
 
+  ![Screenshot 2024-11-15 031135](https://github.com/user-attachments/assets/35ec0540-ae57-4e4a-94ba-65276757f973)
 
+  ![Screenshot 2024-11-15 031518](https://github.com/user-attachments/assets/caad2dc7-5b95-4e16-9b3a-39b6f80485cc)
 
+  ![Screenshot 2024-11-15 031712](https://github.com/user-attachments/assets/596d7fae-146d-4411-ba5b-cafe7ce0c200)
 
+  ![Screenshot 2024-11-15 032118](https://github.com/user-attachments/assets/df29d187-2471-4cc9-ab7b-28f56e8a83f7)
 
+  ![WhatsApp Image 2024-11-15 at 03 45 43_22786f33](https://github.com/user-attachments/assets/4db117f5-e633-4edc-b443-f550ee1b094a)
 
+  ![WhatsApp Image 2024-11-15 at 03 45 43_8a531008](https://github.com/user-attachments/assets/327a2f01-3e89-46fe-9027-31825d6bc521)
+
+  ![WhatsApp Image 2024-11-15 at 03 45 43_8eacf509](https://github.com/user-attachments/assets/d714721e-a4fd-4f94-93cc-53bddffe10bf)
+
+  ![WhatsApp Image 2024-11-15 at 03 45 43_ddaf95c3](https://github.com/user-attachments/assets/8ef50f25-a654-4f07-b2f7-095ae5a1c1af)
+
+  ![WhatsApp Image 2024-11-15 at 03 45 43_c414ede7](https://github.com/user-attachments/assets/283114c5-883d-42e2-b38e-a87228c554de)
+
+  ![WhatsApp Image 2024-11-15 at 03 45 44_a4673187](https://github.com/user-attachments/assets/269d4e28-71e0-4a64-952a-7f657ea2b82f)
+
+  ![WhatsApp Image 2024-11-15 at 03 45 44_78819cd5](https://github.com/user-attachments/assets/00097a44-dead-46e0-9810-03c1b014594c)
+
+  ![WhatsApp Image 2024-11-15 at 03 45 44_6ee2eadb](https://github.com/user-attachments/assets/9f1ac88b-3e19-422d-a2c6-1ed0c25ea851)
 
 </details>
 
