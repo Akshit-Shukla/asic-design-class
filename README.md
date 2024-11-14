@@ -1198,45 +1198,100 @@ Rise Cell Delay = Time take for output to fall to 50% - Time taken for input to 
   ![Screenshot 2024-11-14 005657](https://github.com/user-attachments/assets/5e298699-e69f-46fc-b68a-0568c93bf418)
 
 
+Day 4 : Pre-layout timing analysis and importance of good clock tree.
 
 
+  ![Screenshot 2024-11-14 013645](https://github.com/user-attachments/assets/4dd8915a-a29f-45c9-b898-54fe39bbe7e3)
 
+  ![Screenshot 2024-11-14 013654](https://github.com/user-attachments/assets/986113ed-c9e1-44cb-94a5-424c08283dd0)
 
+  ![Screenshot 2024-11-14 014231](https://github.com/user-attachments/assets/a5ccc6c2-a70b-41da-9856-152e1a0bc138)
 
+  ![Screenshot 2024-11-14 014340](https://github.com/user-attachments/assets/a4be4e90-c897-4f52-a993-d83e4df4acfe)
 
+  ![Screenshot 2024-11-14 014418](https://github.com/user-attachments/assets/c280e6ef-2e4f-44dc-ae6d-59cb404800fa)
 
+  ![Screenshot 2024-11-14 014450](https://github.com/user-attachments/assets/64bfe472-2e53-4497-8f0b-0c264d05879b)
 
+  ![Screenshot 2024-11-14 014615](https://github.com/user-attachments/assets/b92c3018-4dc1-4392-bec8-60e39c46f7bd)
 
+  ![Screenshot 2024-11-14 015013](https://github.com/user-attachments/assets/af7a1bc9-19ba-491f-9db5-2956562db166)
 
+  ![Screenshot 2024-11-14 015112](https://github.com/user-attachments/assets/dfdb9d48-2d86-443c-b2c1-0eb30d177fe7)
 
+  ![Screenshot 2024-11-14 015233](https://github.com/user-attachments/assets/233c1c19-c0db-4103-9fb4-98d182d2c556)
 
+  ![Screenshot 2024-11-14 020335](https://github.com/user-attachments/assets/e77e1027-d605-4ec5-b78d-968f8f8388a1)
 
+  ![Screenshot 2024-11-14 020348](https://github.com/user-attachments/assets/68a8020c-0b81-4951-8a27-bf6ec1aeb41c)
 
+  ![Screenshot 2024-11-14 022413](https://github.com/user-attachments/assets/d3328577-a9c9-44fb-bde9-a80003789aef)
 
+  ![Screenshot 2024-11-14 023348](https://github.com/user-attachments/assets/8b7b4a8f-2512-4315-98a4-370a572c28ab)
+
+  ![Screenshot 2024-11-14 023404](https://github.com/user-attachments/assets/62ba261f-52bf-41c0-bf8c-74b1e460e6f3)
+
+  ![Screenshot 2024-11-14 023657](https://github.com/user-attachments/assets/d993493b-c7db-4554-ac98-3061887a9f0b)
+
+  ![Screenshot 2024-11-14 023810](https://github.com/user-attachments/assets/b31cf49a-3040-4160-ac05-d0cc31a308fb)
+
+  ![Screenshot 2024-11-14 023829](https://github.com/user-attachments/assets/c1402f0f-c2ff-4b5f-a003-85cb678d68ac)
+
+  ![Screenshot 2024-11-14 023909](https://github.com/user-attachments/assets/cbe838dc-42f5-4069-9fad-c01a89a9eec2)
+
+  ![Screenshot 2024-11-14 024313](https://github.com/user-attachments/assets/29d13e1e-0e5e-4169-8027-d958d5058fce)
+
+  ![Screenshot 2024-11-14 024542](https://github.com/user-attachments/assets/1ce49fc8-a28e-4dd0-b768-8c97f0641695)
+
+  ![Screenshot 2024-11-14 032321](https://github.com/user-attachments/assets/0e132888-2d3d-421c-8531-650219bb8a7c)
   
+  ![Screenshot 2024-11-14 032602](https://github.com/user-attachments/assets/c67450ca-6a68-47e4-8e1e-7dc8d36d1eea)
 
-  
+  ![Screenshot 2024-11-14 033007](https://github.com/user-attachments/assets/bba50039-614d-4dac-866f-a52f1c6d36ac)
 
+  ![Screenshot 2024-11-14 033025](https://github.com/user-attachments/assets/9b0dbfd8-6db7-48d6-a714-2fd5be1498de)
 
+  ![Screenshot 2024-11-14 033303](https://github.com/user-attachments/assets/51ed5619-daac-432b-8ea4-3e23649813cc)
 
+  ![Screenshot 2024-11-14 034508](https://github.com/user-attachments/assets/9f13b44d-731f-4b59-bbb5-399ef30af93c)
 
+  ![Screenshot 2024-11-15 001416](https://github.com/user-attachments/assets/17a7c08a-b3fa-4140-8722-4116742e64fd)
 
+  ![Screenshot 2024-11-15 011957](https://github.com/user-attachments/assets/790cd1d3-dc1c-4e85-b259-9e7ff32addea)
 
-  
+  ![Screenshot 2024-11-15 012153](https://github.com/user-attachments/assets/064faca1-f400-4cf9-81dd-765dcecdc712)
 
+  ![Screenshot 2024-11-15 012239](https://github.com/user-attachments/assets/e6e4109b-f245-4aa8-ac4a-f32706c8f045)
 
-  
+  ![Screenshot 2024-11-15 012317](https://github.com/user-attachments/assets/ae2af82c-02e3-4f3a-bf26-7ea81ff62a36)
 
+  ![Screenshot 2024-11-15 012723](https://github.com/user-attachments/assets/f4d4aa81-a022-4b60-afd9-fe149ac036ef)
 
+  ![Screenshot 2024-11-15 013051](https://github.com/user-attachments/assets/f9dfa1be-1a98-4631-a832-59175942347e)
 
+  ![Screenshot 2024-11-15 020237](https://github.com/user-attachments/assets/496f22ed-c2c4-4b0c-b974-c48fb2843e82)
 
+  ![Screenshot 2024-11-15 020259](https://github.com/user-attachments/assets/9b8b10f6-8d44-4673-be8e-cb8e540bcbbe)
 
+  ![Screenshot 2024-11-15 020359](https://github.com/user-attachments/assets/aa70bc86-fa83-494b-b89b-fdb130c714de)
 
-  
+  ![Screenshot 2024-11-15 020442](https://github.com/user-attachments/assets/677cc6dc-68ef-4d67-bfb4-123ea8f9ff04)
 
+  ![Screenshot 2024-11-15 020506](https://github.com/user-attachments/assets/ed80b03d-239e-46bb-a8db-4964e27f8d20)
 
+  ![Screenshot 2024-11-15 020857](https://github.com/user-attachments/assets/2569f324-ed8e-4a26-bc10-4ee0818962cd)
 
+  ![Screenshot 2024-11-15 021158](https://github.com/user-attachments/assets/1c27d078-92f9-4d65-bc5e-e2f8e1cc437a)
 
+  ![Screenshot 2024-11-15 021240](https://github.com/user-attachments/assets/5b16e678-b45d-498c-ac4e-3677058ae85e)
+
+  ![Screenshot 2024-11-15 021646](https://github.com/user-attachments/assets/4f9e40ef-2c97-4c08-8550-1cb27bd9ce80)
+
+  ![Screenshot 2024-11-15 023256](https://github.com/user-attachments/assets/9f8e764b-4beb-40c7-98d1-12b4c4855f9d)
+
+  ![Screenshot 2024-11-15 023316](https://github.com/user-attachments/assets/563274ed-085a-477d-a205-944ea1b02082)
+
+  ![Screenshot 2024-11-15 023333](https://github.com/user-attachments/assets/71009336-85ec-4464-99d8-cb3e1c0de768)
 
 
 
