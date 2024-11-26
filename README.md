@@ -1385,6 +1385,13 @@ The relevant screenshots of the steps are shown below, which include, tool insta
 
 ![Screenshot from 2024-11-26 04-07-22](https://github.com/user-attachments/assets/dfc6dc8d-1c00-4a0b-bc18-3762c200620a)
 
+The heat map after CTS is given below:
+
+![Screenshot from 2024-11-26 04-07-22](https://github.com/user-attachments/assets/6879a94d-852a-43b1-886e-4bfe0c5b1470)
+
+![Screenshot from 2024-11-26 16-40-24](https://github.com/user-attachments/assets/ef72f2dc-10ea-4c18-bf57-489a98b65301)
+
+![Screenshot from 2024-11-26 16-40-36](https://github.com/user-attachments/assets/8a4ba76f-b07c-4a70-966a-df49a72b195c)
 
 
 
