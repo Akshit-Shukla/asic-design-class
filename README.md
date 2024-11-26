@@ -1328,4 +1328,65 @@ Day 5: Final steps for RTL2GDS using tritonRoute and openSTA
 </details>
 
 
+<details>
+  <summary> Assignment 16 </summary>
+  <br>
+
+  In this task we learn to use OPENROAD and implement it on the vsdbabysoc project we created in the previous assignments.
+  
+The relevant screenshots of the steps are shown below, which include, tool installation, synthesis, floorplan, placement, cts and routing.
+
+![Screenshot from 2024-11-24 16-16-48](https://github.com/user-attachments/assets/c0e4f2bc-33d1-4be6-b4f8-fe6e2e07c8a3)
+
+![Screenshot from 2024-11-25 13-12-12](https://github.com/user-attachments/assets/06ebb24e-b808-4972-858a-bd6ad6b68fbd)
+
+![Screenshot from 2024-11-25 13-19-58](https://github.com/user-attachments/assets/f445a959-210a-4dc2-bc07-c7950c22e94c)
+
+![Screenshot from 2024-11-25 13-20-34](https://github.com/user-attachments/assets/4c316cd2-851f-4cda-a0c7-0b6eb52f582e)
+
+![Screenshot from 2024-11-25 13-20-43](https://github.com/user-attachments/assets/dfb4b001-02d9-4be1-898b-4dfe055cfa83)
+
+![Screenshot from 2024-11-25 13-22-20](https://github.com/user-attachments/assets/cc59ad84-ad95-45fd-a5a1-5da2762baeae)
+
+![Screenshot from 2024-11-25 13-22-45](https://github.com/user-attachments/assets/b697f1d9-1fe5-46c3-a522-001e85018a3e)
+
+![Screenshot from 2024-11-25 13-49-08](https://github.com/user-attachments/assets/ff560740-c057-455f-be2a-35154f55d213)
+
+![Screenshot from 2024-11-25 17-48-36](https://github.com/user-attachments/assets/c8d5174c-f0a2-4d76-a4ba-311090503cb2)
+
+![Screenshot from 2024-11-25 18-40-31](https://github.com/user-attachments/assets/e0bd4604-ff16-4a43-a18b-50762981305d)
+
+![Screenshot from 2024-11-25 18-40-45](https://github.com/user-attachments/assets/f5d35f02-43c6-49fd-a3c1-a498a05b3b65)
+
+![Screenshot from 2024-11-25 18-42-24](https://github.com/user-attachments/assets/bcfedf68-1017-4b94-a22c-9003aa8b2d1c)
+
+![Screenshot from 2024-11-25 18-47-07](https://github.com/user-attachments/assets/29648d7b-5b84-4728-8878-eaf91d140355)
+
+
+![Screenshot from 2024-11-25 18-47-54](https://github.com/user-attachments/assets/1c52f28b-cafc-4c24-aa25-6aa919f773ca)
+
+![Screenshot from 2024-11-26 01-35-49](https://github.com/user-attachments/assets/d119676b-27fd-442a-9c0d-8bf28355b632)
+
+![Screenshot from 2024-11-26 01-41-54](https://github.com/user-attachments/assets/a393027a-3279-478d-abc6-d72ecc78e497)
+
+![Screenshot from 2024-11-26 01-43-58](https://github.com/user-attachments/assets/d6f05dc9-4898-43d7-80f5-8248fb631ec4)
+
+![Screenshot from 2024-11-26 01-44-43](https://github.com/user-attachments/assets/6cea0325-9b3e-4860-8c50-1d77cbb5186d)
+
+![Screenshot from 2024-11-26 01-44-59](https://github.com/user-attachments/assets/e45191f5-c9a2-4993-a512-0b02f6d72be8)
+
+![Screenshot from 2024-11-26 01-45-16](https://github.com/user-attachments/assets/da2501dc-4671-4e44-b3f4-e70547168905)
+
+![Screenshot from 2024-11-26 01-45-36](https://github.com/user-attachments/assets/08112c39-0030-4ea8-a0f3-5b6436be3be7)
+
+![Screenshot from 2024-11-26 02-45-22](https://github.com/user-attachments/assets/e11df9ec-c2f1-4891-b216-52c9dd15e9ed)
+
+![Screenshot from 2024-11-26 03-02-21](https://github.com/user-attachments/assets/0d8ad6ac-2778-4f87-a14c-09e5b0c2804b)
+
+![Screenshot from 2024-11-26 04-07-22](https://github.com/user-attachments/assets/dfc6dc8d-1c00-4a0b-bc18-3762c200620a)
+
+
+
+
+
 
